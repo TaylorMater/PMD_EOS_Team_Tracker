@@ -1,0 +1,25 @@
+
+using the conda pmd_tracker environment that has the proper versioning
+
+
+1. Finish test scrape for 1 pokemon:
+    a. Learn how to parse the html output to get all the fields we need for our reference dex
+    b. note that the size isn't really scrapable - the value is stored as an image. I might be able to count the occurences of said images, but that seems gross and it's small enough of a subset that I could edit those values into the database manually.
+
+
+--->
+
+0.1:
+    Reply to Jesse Pacheco
+0.2:
+    Check about ATI bill. Pay if needed.
+
+
+2. Finish the dex_reference_scraper.py to write the results of the scrape to a csv in the proper format
+    a. Need to also grab pokemon name and types, 
+3. Create a public git repo for everything.
+4. Import the csv into a table in pgadmin for the pmd_team_tracker database.
+    a. The table will be called: dex_reference
+5. Write a script that runs the sql query to find the pokmeon by name from this database
+    a. Literally just a SELECT * WHERE NAME = '<pokemon_name>' but with connection string/database connection handling
+6. Create a website that pulls data from this database and displays it

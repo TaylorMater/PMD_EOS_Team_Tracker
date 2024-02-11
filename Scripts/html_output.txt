@@ -1,0 +1,4090 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<head>
+<title>Serebii.net Spin-Off Pok&eacute;dex - #001 Bulbasaur</title>
+
+<meta name="GENERATOR" content="Arachnophilia 4.0">
+<meta name="FORMATTER" content="Arachnophilia 4.0">
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta http-equiv="imagetoolbar" CONTENT="no">
+
+
+
+
+<link rel="preconnect" href="https://securepubads.g.doubleclick.net/" crossorigin>
+
+<link rel="preconnect" href="https://cdn.consentmanager.mgr.consensu.org/" crossorigin>
+
+
+
+<!-- GDPR Compliancy -->
+
+<style>
+
+body {
+
+	--cmpBgColor: #507C36;
+
+	--cmpTextColor: #eeeeee;
+
+	--cmpLinkColor: #ffffff;
+
+	--cmpPurposesColor: #eeeeee;
+
+	--cmpBrandColor: #565656;
+
+	--cmpLogo: url('https://www.serebii.net/extralogo.png');
+
+}
+
+</style>
+
+<!-- GDPR Compliancy --><!-- GDPR Compliancy -->
+
+    <link rel="stylesheet" type="text/css" HREF="/spp-temp.css">
+
+
+
+  <link rel="search" href="/serebii-opensearch.xml" type="application/opensearchdescription+xml" title="Serebii Open Search" />
+
+   <LINK REL="SHORTCUT ICON" HREF="/favicon.ico">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-128947957-1"></script>
+
+<script>
+
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag(){dataLayer.push(arguments);}
+
+  gtag('js', new Date());
+
+  gtag('config', 'UA-128947957-1');
+
+</script>
+
+<!-- Place the below code anywhere you like in the <head> (higher is better) -->
+
+
+
+
+
+
+
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+
+
+
+<script async  src="https://kumo.network-n.com/dist/app.js" site="serebii"></script>
+
+
+
+
+</head>
+
+
+
+<BODY  ondragstart="return false"  text=#000000 bottomMargin=0 bgcolor="#383838" 
+
+
+leftMargin=0 topMargin=0 rightMargin=0>
+
+<!-- Google Tag Manager (noscript) -->
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TPSZKKL"
+
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+
+
+    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" height="1" background="/BannerBg.jpg"">
+
+
+      <tr>
+
+
+        <td width="100%" background="/BannerBg.jpg"" height="1">
+
+
+    <div align="center">
+
+
+    <font color="#000000">
+
+
+    <a href="/"><img border="0" src="/Banner.jpg"" alt="Serebii.net Header"></a></font></td>
+
+
+      </tr>
+
+
+    </table>
+
+
+    <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" height="1">
+
+
+      <tr>
+
+
+        <td width="95%" height="1" colspan="3" bgcolor="#507C36" bordercolor="#111111">
+
+
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" height="1">
+
+
+			<td colspan="2" height="1">
+
+        <div id="menu"><b>Quick Links -</b> <a href="/index2.shtml">Home</a> - <a href="http://www.serebiiforums.com/" target="blank">Forums</a> - <a href="mailto:webmaster@serebii.net">Contact</a> - <a href="/discord.shtml">Discord</a> - <a href="/pokemon">Pok�dex Hub</a> - <a href="/pokemongo/pokemon">GO Pok�dex</a> - <a href="/pokedex-swsh">Sword & Shield Pok�dex</a> - <a href="/pokearth">Pok�arth</a></div></td>
+
+<td align="right" width="300" height="1">
+
+<div id="menu">  <form id="searchbox_018410473690156091934:6gahkiyodbi" action="/search.shtml" style="margin:0px;">
+
+    <input type="hidden" name="cx" value="018410473690156091934:6gahkiyodbi" />
+
+    <input type="hidden" name="cof" value="FORID:11" />
+
+    <input name="q" type="text" size="20" />
+
+    <input type="submit" name="sa" value="Search" />
+
+  </form>
+
+  <script type="text/javascript" src="//www.google.com/coop/cse/brand?form=searchbox_018410473690156091934%3A6gahkiyodbi"></script>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+</td>
+
+
+      </tr>
+
+
+
+
+
+<tr>
+
+<td width="1%" height="362" valign="top" bgcolor="#507C36" bordercolor="#111111">
+
+<div id="menu"><img src="/Toolbar/headers/SPP.gif" width="140" height="27" alt="Main Header"></a><br />
+
+<a href="/index2.shtml">News</a>
+
+<a href="/archive.shtml">Archived news</a><br /> 
+
+<a href="/pokemon/"><b>Pok�dex</b></a><br /> 
+
+<a href="/pokedex/">-Red/Blue Pok�dex</a><br /> 
+
+<a href="/pokedex-gs/">-Gold/Silver Pok�dex</a><br /> 
+
+<a href="/pokedex-rs/">-Ruby/Sapphire Pok�dex</a><br /> 
+
+<a href="/pokedex-dp/">-Diamond/Pearl Pok�dex</a><br /> 
+
+<a href="/pokedex-bw/">-Black/White Pok�dex</a><br /> 
+
+<a href="/pokedex-xy/">-X & Y Pok�dex</a><br /> 
+
+<a href="/pokedex-sm/">-Sun & Moon Pok�dex</a><br /> 
+
+<a href="/pokedex-sm/">-Let's Go Pok�dex</a><br /> 
+
+<a href="/pokedex-swsh/">-Sword & Shield Pok�dex</a><br /> 
+
+<a href="/pokedex-swsh/">-BDSP Pok�dex</a><br /> 
+
+<a href="/pokedex-swsh/">-Legends Pok�dex</a><br /> 
+
+<a href="/pokemongo/pokemon/">-GO Pok�dex</a><br /> 
+
+<a href="/pokedex-sv/">-Scarlet & Violet Pok�dex</a><br /> 
+
+<strong>Attackdex</strong><br /> 
+
+<a href="/attackdex-rby/">-Gen 1 Attackdex</a><br /> 
+
+<a href="/attackdex-gs/">-Gen 2 Attackdex</a><br /> 
+
+<a href="/attackdex/">-Gen 3 Attackdex</a><br /> 
+
+<a href="/attackdex-dp/">-Gen 4 Attackdex</a><br /> 
+
+<a href="/attackdex-bw/">-Gen 5 Attackdex</a><br /> 
+
+<a href="/attackdex-xy/">-Gen 6 Attackdex</a><br /> 
+
+<a href="/attackdex-sm/">-Gen 7 Attackdex</a><br /> 
+
+<a href="/attackdex-swsh/">-Gen 8 Attackdex</a><br /> 
+
+<a href="/attackdex-sv/">-Gen 9 Attackdex</a><br /> 
+
+<a href="/itemdex/">ItemDex</a><br /> 
+
+<a href="/pokearth/">Pok�arth</a><br /> 
+
+<a href="/abilitydex/">Abilitydex</a><br /> 
+
+<a href="/spindex/">Spin-Off Pok�dex</a><br /> 
+
+<a href="/spindex-dp/">Spin-Off Pok�dex DP</a><br /> 
+
+<a href="/spindex-bw/">Spin-Off Pok�dex BW</a><br /> 
+
+<a href="/card/dex/">Cardex</a><br /> 
+
+<a href="/movies/dex/">Cinematic Pok�dex</a><br /> 
+
+<a href="/games/mechanics.shtml">Game Mechanics</a><br /> 
+
+<a href="/games/iv-calcsv.shtml">-Scarlet/Violet IV Calc.</a><br /> 
+
+<a href="/potw-sv">Pok�mon of the Week</a><br /> 
+
+<a href="/potw-sv/">-9th Gen</a><br /> 
+
+<a href="/potw-swsh/">-8th Gen</a><br /> 
+
+<a href="/potw-sm/">-7th Gen</a><br /> 
+
+<a href="/pokemon/timeline.shtml">Pok�mon Timeline</a><br /> 
+
+<a href="/pokemoncenter/">Pok�mon Centers</a><br /> 
+
+<a href="/playpokemon">Pok�mon Championship Series</a><br /> 
+
+<a href="/music/p25music">P25 Music</a><br /> 
+
+<a href="/pokemonconcierge/">Pok�mon Concierge</a><br /> 
+
+<a href="/pokemonday/">Pok�mon Day</a><br /> 
+
+<a href="/presentations">Pok�mon Presentations</a><br /> 
+
+<a href="/pokemonshirts/">Pok�mon Shirts</a><br /> 
+
+<a href="/themeparks/">Theme Parks</a><br /> 
+
+<a href="https://forums.serebii.net" target="blank">Forums</a><br /> 
+
+<a href="/discord.shtml">Discord Chat</a><br /> 
+
+<a href="/games/currentevents.shtml">Current & Upcoming Events</a><br /> 
+
+<a href="/events">Event Database</a><br /> 
+
+<a href="/scarletviolet/pokemon.shtml">9th Generation Pok�mon</a><br /> 
+
+<a href="/scarletviolet/dlc-pokemon.shtml">-New Pok�mon in DLC</a><br /> 
+
+<a href="/scarletviolet/paldeanforms.shtml">-Paldean Form Pok�mon</a>
+
+<a href="/anime/"><img src="/Toolbar/headers/Anime.gif" border="0" width="140" height="27" alt="Anime Header"></a><br />
+
+<a href="/anime/epiguide/">Episode Listings & Pictures</a><br /> 
+
+<a href="/anime/dex/">Anim�Dex</a><br /> 
+
+<a href="/anime/characters/">Character Bios</a><br /> 
+
+<a href="/anime/epiguide/indigo/">The Indigo League</a><br /> 
+
+<a href="/anime/epiguide/orange/">The Orange League</a><br /> 
+
+<a href="/anime/epiguide/johto/">The Johto Saga</a><br /> 
+
+<a href="/anime/epiguide/houen/">The Saga in Hoenn!</a><br /> 
+
+<a href="/anime/epiguide/kanto/">Kanto Battle Frontier Saga!</a><br /> 
+
+<a href="/anime/epiguide/shinou/">The Sinnoh Saga!</a><br /> 
+
+<a href="/anime/epiguide/bestwishes/">Best Wishes - Unova Saga</a><br /> 
+
+<a href="/anime/epiguide/xy/">XY - Kalos Saga</a><br /> 
+
+<a href="/anime/epiguide/sunmoon/">Sun & Moon - Alola Saga</a><br /> 
+
+<a href="/anime/epiguide/pokemon/">Pok�mon Journeys - Galar Saga</a><br /> 
+
+<a href="/anime/epiguide/pokemonmaster/">Pok�mon Aim To Be A Pok�mon Master</a><br /> 
+
+<a href="/anime/epiguide/pokemon2023/">Pok�mon Horizons - Paldea Saga</a><br /> 
+
+<a href="/anime/epiguide/chronicles/">Pok�mon Chronicles</a><br /> 
+
+<a href="/anime/epiguide/specials/">The Special Episodes</a><br /> 
+
+<a href="/anime/banned.shtml">The Banned Episodes</a><br /> 
+
+<a href="/anime/shiny/">Shiny Pok�mon</a><br /> 
+
+<b>Other Web Series</b><br /> 
+
+<a href="/anime/epiguide/generations/">Pok�mon Generations</a><br /> 
+
+<a href="/anime/epiguide/twilightwings/">Pok�mon Twilight Wings</a><br /> 
+
+<a href="/anime/epiguide/evolutions/">Pok�mon Evolutions</a><br /> 
+
+<a href="/anime/hisuiansnow/">Pok�mon: Hisuian Snow</a><br /> 
+
+<a href="/anime/paldeanwinds/">Pok�mon: Paldean Winds</a><br /> 
+
+<a href="/anime/poketoon/">Pok�Toon</a><br /> 
+
+<a href="/anime/other/">Other Animations</a><br />
+
+
+
+<a href="/games/"></a><img src="/Toolbar/headers/Games.gif" border="0" width="140" height="27" alt="Video Games Header"></b></a><br />
+
+<a href="/pokemon/generation9.shtml"><b>Gen IX</b></a><br /> 
+
+<a href="/scarletviolet/">Scarlet & Violet</a><br /> 
+
+<a href="/pokemongo/">Pok�mon GO</a><br /> 
+
+<a href="/cafemix/">Pok�mon Caf� ReMix</a><br /> 
+
+<a href="/pokemonmasters/">Pok�mon Masters EX</a><br /> 
+
+<a href="/pokemonunite/">Pok�mon UNITE</a><br /> 
+
+<a href="/pokemonsleep/">Pok�mon Sleep</a><br /> 
+
+<a href="/detectivepikachureturns/">Detective Pikachu Returns</a><br /> 
+
+<a href="/pokemon/generation8.shtml"><b>Gen VIII</b></a><br /> 
+
+<a href="/swordshield/">Sword & Shield</a><br /> 
+
+<a href="/brilliantdiamondshiningpearl/">Brilliant Diamond & Shining Pearl</a><br /> 
+
+<a href="/legendsarceus/">Pok�mon Legends: Arceus</a><br /> 
+
+<a href="/pokemonhome/">Pok�mon HOME</a><br /> 
+
+<a href="/pokemongo/">Pok�mon GO</a><br /> 
+
+<a href="/pokemonmasters/">Pok�mon Masters EX</a><br /> 
+
+<a href="/dungeonrescueteamdx/">Pok�mon Mystery Dungeon Rescue Team DX</a><br /> 
+
+<a href="/pokemonsmile/">Pok�mon Smile</a><br /> 
+
+<a href="/cafemix/">Pok�mon Caf� ReMix</a><br /> 
+
+<a href="/newpokemonsnap/">New Pok�mon Snap</a><br /> 
+
+<a href="/pokemonunite/">Pok�mon UNITE</a><br /> 
+
+<a href="/tcglive/">Pok�mon TCG Live</a><br /> 
+
+<a href="/pokemon/generation7.shtml"><b>Gen VII</b></a><br /> 
+
+<a href="/sunmoon/">Sun & Moon</a><br /> 
+
+<a href="/ultrasunultramoon/">Ultra Sun & Ultra Moon</a><br /> 
+
+<a href="/letsgopikachueevee/">Let's Go, Pikachu! & Let's Go, Eevee!</a><br /> 
+
+<a href="/pokemongo/">Pok�mon GO</a><br /> 
+
+<a href="/magikarpjump/">Pok�mon: Magikarp Jump</a><br /> 
+
+<a href="/rumblerush/">Pok�mon Rumble Rush</a><br /> 
+
+<a href="/pokkendx/">Pokk�n Tournament DX</a><br /> 
+
+<a href="/detective/">Detective Pikachu</a><br /> 
+
+<a href="/quest/">Pok�mon Quest</a><br /> 
+
+<a href="/smashbrosultimate/">Super Smash Bros. Ultimate</a><br /> 
+
+<a href="/pokemon/generation6.shtml"><b>Gen VI</b></a><br /> 
+
+<a href="/xy/">X & Y</a><br /> 
+
+<a href="/omegarubyalphasapphire/">Omega Ruby & Alpha Sapphire</a><br /> 
+
+<a href="/bank/">Pok�mon Bank</a><br /> 
+
+<a href="/battletrozei/">Pok�mon Battle TrozeiPok�mon Link: Battle</a><br /> 
+
+<a href="/artacademy/">Pok�mon Art Academy</a><br /> 
+
+<a href="/bandofthieves/">The Band of Thieves & 1000 Pok�mon</a><br /> 
+
+<a href="/shuffle/">Pok�mon Shuffle</a><br /> 
+
+<a href="/rumbleworld/">Pok�mon Rumble World</a><br /> 
+
+<a href="/supermysterydungeon/">Pok�mon Super Mystery Dungeon</a><br /> 
+
+<a href="/picross/">Pok�mon Picross</a><br /> 
+
+<a href="/detective/">Detective Pikachu</a><br /> 
+
+<a href="/pokken/">Pokk�n Tournament</a><br /> 
+
+<a href="/duel/">Pok�mon Duel</a><br /> 
+
+<a href="/smashbros3dswiiu/">Smash Bros for 3DS/Wii U</a><br /> 
+
+<a href="/games/badge/">Nintendo Badge Arcade</a><br /> 
+
+<a href="/pokemon/generation5.shtml"><b>Gen V</b></a><br /> 
+
+<a href="/blackwhite/">Black & White</a><br /> 
+
+<a href="/black2white2/">Black 2 & White 2</a><br /> 
+
+<a href="/dreamradar/">Pok�mon Dream Radar</a><br /> 
+
+<a href="/trettalab/">Pok�mon Tretta Lab</a><br /> 
+
+<a href="/rumbleu/">Pok�mon Rumble U</a><br /> 
+
+<a href="/dungeoninfinity/">Mystery Dungeon: Gates to Infinity</a><br /> 
+
+<a href="/conquest/">Pok�mon Conquest</a><br /> 
+
+<a href="/pokepark2/">Pok�Park 2: Wonders Beyond</a><br /> 
+
+<a href="/rumble2/">Pok�mon Rumble Blast</a><br /> 
+
+<a href="/pokedex3d/">Pok�dex 3D</a><br /> 
+
+<a href="/pokedex3dpro/">Pok�dex 3D Pro</a><br /> 
+
+<a href="/typingds/">Learn With Pok�mon: Typing Adventure</a><br /> 
+
+<a href="/card/howtoplayds/">TCG How to Play DS</a><br /> 
+
+<a href="/pokedexios/">Pok�dex for iOS</a><br /> 
+
+<a href="/pokemon/generation4.shtml"><b>Gen IV</b></a><br /> 
+
+<a href="/diamondpearl/">Diamond & Pearl</a><br /> 
+
+<a href="/platinum/">Platinum</a><br /> 
+
+<a href="/heartgoldsoulsilver/">Heart Gold & Soul Silver</a><br /> 
+
+<a href="/ranger3/">Pok�mon Ranger: Guardian Signs</a><br /> 
+
+<a href="/melee/">Pok�mon Rumble</a><br /> 
+
+<a href="/dungeon3/">Mystery Dungeon: Blazing, Stormy & Light Adventure Squad</a><br /> 
+
+<a href="/pokepark/">Pok�Park Wii - Pikachu's  Adventure</a><br /> 
+
+<a href="/battle/">Pok�mon Battle Revolution</a><br /> 
+
+<a href="/dungeonsky/">Mystery Dungeon - Explorers of Sky</a><br /> 
+
+<a href="/ranger2/">Pok�mon Ranger: Shadows of Almia</a><br /> 
+
+<a href="/dungeon2/">Mystery Dungeon - Explorers of Time & Darkness</a><br /> 
+
+<a href="/ranch/">My Pok�mon Ranch</a><br /> 
+
+<a href="/battrio/">Pok�mon Battrio</a><br /> 
+
+<a href="/ssbb/">Smash Bros Brawl</a><br /> 
+
+<a href="/pokemon/generation3.shtml"><b>Gen III</b></a><br /> 
+
+<a href="/rubysapphire/">Ruby & Sapphire</a><br /> 
+
+<a href="/fireredleafgreen/">Fire Red & Leaf Green</a><br /> 
+
+<a href="/emerald/">Emerald</a><br /> 
+
+<a href="/colosseum/">Pok�mon Colosseum</a><br /> 
+
+<a href="/xd/">Pok�mon XD: Gale of Darkness</a><br /> 
+
+<a href="/dash/">Pok�mon Dash</a><br /> 
+
+<a href="/pokemon_channel/">Pok�mon Channel</a><br /> 
+
+<a href="/pokemon_box/">Pok�mon Box: RS</a><br /> 
+
+<a href="/pinball_rs/">Pok�mon Pinball RS</a><br /> 
+
+<a href="/ranger/">Pok�mon Ranger</a><br /> 
+
+<a href="/mysteriousdungeon/">Mystery Dungeon Red & Blue</a><br /> 
+
+<a href="/torouze/">Pok�monTrozei</a><br /> 
+
+<a href="/pikachu/">Pikachu DS Tech Demo</a><br /> 
+
+<a href="/pokeparkfish/">Pok�Park Fishing Rally</a><br /> 
+
+<a href="/e-reader/">The E-Reader</a><br /> 
+
+<a href="/pokemate/">Pok�Mate</a><br /> 
+
+<a href="/pokemon/generation2.shtml"><b>Gen II</b></a><br /> 
+
+<a href="/gs/">Gold/Silver</a><br /> 
+
+<a href="/crystal/">Crystal</a><br /> 
+
+<a href="/stadium2/">Pok�mon Stadium 2</a><br /> 
+
+<a href="/puzzlechallenge/">Pok�mon Puzzle Challenge</a><br /> 
+
+<a href="/mini/">Pok�mon Mini</a><br /> 
+
+<a href="/smash_bros_2/">Super Smash Bros. Melee</a><br /> 
+
+<a href="/pokemon/generation1.shtml"><b>Gen I</b></a><br /> 
+
+<a href="/rb/">Red, Blue & Green</a><br /> 
+
+<a href="/yellow/">Yellow</a><br /> 
+
+<a href="/puzzleleague/">Pok�mon Puzzle League</a><br /> 
+
+<a href="/snap/">Pok�mon Snap</a><br /> 
+
+<a href="/pinball/">Pok�mon Pinball</a><br /> 
+
+<a href="/stadiumjp/">Pok�mon Stadium (Japanese)</a><br /> 
+
+<a href="/stadium/">Pok�mon Stadium</a><br /> 
+
+<a href="/tradingcardgamegb/">Pok�mon Trading Card Game GB</a><br /> 
+
+<a href="/smash_bros/">Super Smash Bros.</a><br /> 
+
+<strong>Miscellaneous</strong><br /> 
+
+<a href="/games/mechanics.shtml">Game Mechanics</a><br /> 
+
+<a href="/playpokemon">Pok�mon Championship Series</a><br /> 
+
+<a href="/games/others.shtml">In Other Games</a><br /> 
+
+<a href="/games/virtualconsole.shtml">Virtual Console</a><br /> 
+
+<a href="/games/consoles.shtml">Special Edition Consoles</a><br /> 
+
+<a href="/games/themes.shtml">Pok�mon 3DS Themes</a><br /> 
+
+<a href="/apps">Smartphone & Tablet Apps</a><br /> 
+
+<a href="/virtualpet">Virtual Pets</a><br /> 
+
+<a href="/amiibo">amiibo</a><br />
+
+
+
+<a href="/manga/"><img src="/Toolbar/headers/Manga.gif" border="0" width="140" height="27" alt="Manga Header"></a><br />
+
+<a href="/manga/">General Information</a><br />
+
+<a href="/manga/dex">MangaDex</a><br />
+
+<a href="/manga/characters">Character BIOs</a><br />
+
+<a href="/manga/characters-new">Detailed BIOs</a><br />
+
+<a href="/manga/chapter.shtml">Chapter Guides</a><br />
+
+<a href="/manga/volume.shtml">Volume Guides</a><br />
+
+<a href="/manga/rby/">RBG Series</a><br />
+
+<a href="/manga/yellow/">Yellow Series</a><br />
+
+<a href="/manga/gsc/">GSC Series</a><br />
+
+<a href="/manga/rs/">RS Series</a><br />
+
+<a href="/manga/frlg/">FRLG Series</a><br />
+
+<a href="/manga/bf/">Emerald Series</a><br />
+
+<a href="/manga/dp/">DP Series</a><br />
+
+<a href="/manga/pt/">Platinum Series</a><br />
+
+<a href="/manga/hgss/">HGSS Series</a><br />
+
+<a href="/manga/bw/">BW Series</a><br />
+
+<a href="/manga/b2w2/">B2W2 Series</a><br />
+
+<a href="/manga/xy/">XY Series</a><br />
+
+<a href="/manga/oras/">ORAS Series</a><br />
+
+<a href="/manga/sunmoon/">SM Series</a><br />
+
+
+
+<a href="/movies/"><img src="/Toolbar/headers/Movies.gif" border="0" width="140" height="27" alt="Movies Header"></a><br />
+
+<b>Anime</b><br />
+
+<a href="/movies/mewtwo/origin/">The Origin of Mewtwo </a><br />
+
+<a href="/movies/mewtwo/">Mewtwo Strikes Back </a><br />
+
+<a href="/movies/lugia/">The Power of One </a><br />
+
+<a href="/movies/entei/">Spell Of The Unown </a><br />
+
+<a href="/anime/epiguide/specials/002.shtml">Mewtwo Returns </a><br />
+
+<a href="/movies/serebii/">Celebi: Voice of the Forest</a><br />
+
+<a href="/movies/latias_latios/">Pok�mon Heroes</a><br />
+
+<a href="/movies/jirachi/">Jirachi - Wish Maker</a><br />
+
+<a href="/movies/deoxys/">Destiny Deoxys!</a><br />
+
+<a href="/movies/mew/">Lucario and the Mystery of Mew!</a><br />
+
+<a href="/movies/kyogre/">Pok�mon Ranger & The Temple of the Sea!</a><br />
+
+<a href="/movies/dp/">The Rise of Darkrai!</a><br />
+
+<a href="/movies/giratina/">Giratina & The Sky Warrior!</a><br />
+
+<a href="/movies/arceus/">Arceus and the Jewel of Life</a><br />
+
+<a href="/movies/celebi/">Zoroark - Master of Illusions</a><br />
+
+<a href="/movies/victini/">Black: Victini & Reshiram<br />White: Victini & Zekrom</a><br />
+
+<a href="/movies/kyurem/">Kyurem VS The Sword of Justice</a><br />
+
+<a href="/movies/meloetta/">-Meloetta's Midnight Serenade</a><br />
+
+<a href="/movies/genesect/">Genesect and the Legend Awakened</a><br />
+
+<a href="/movies/xy/">Diancie & The Cocoon of Destruction</a><br />
+
+<a href="/movies/hoopa/">Hoopa & The Clash of Ages</a><br />
+
+<a href="/movies/volcanion/">Volcanion and the Mechanical Marvel</a><br />
+
+<a href="/movies/pokemon20/">Pok�mon I Choose You!</a><br />
+
+<a href="/movies/thepowerofus/">Pok�mon The Power of Us</a><br />
+
+<a href="/movies/mewtwoevolution/">Mewtwo Strikes Back Evolution</a><br />
+
+<a href="/movies/secretsofthejungle/">Secrets of the Jungle</a><br />
+
+<b>Live Action</b><br />
+
+<a href="/movies/detectivepikachu/">Pok�mon's Detective Pikachu</a><br />
+
+<b>Sections</b><br />
+
+<a href="/movies/dex/">Cinematic Pok�dex</a><br />
+
+<a href="/movies/biography/">Live Action Character Biographies</a><br />
+
+
+
+<a href="/movies/"><img src="/Toolbar/headers/PikachuShorts.gif" border="0" width="140" height="27" alt="Pikachu Shorts Header"></a><br />
+
+<a href="/movies/pikachu1/">Pikachu's Summer Vacation</a><br />
+
+<a href="/movies/pikachu2/">Pikachu's Rescue Adventure</a><br />
+
+<a href="/movies/pikachu3/">Pikachu And Pichu </a><br />
+
+<a href="/movies/pikachu4/">Pikachu's PikaBoo </a><br />
+
+<a href="/movies/pikachu5/">Camp Pikachu!</a><br />
+
+<a href="/movies/pikachu6/">Gotta Dance!!</a><br />
+
+<a href="/movies/pikachu7/">Pikachu's Summer Festival!</a><br />
+
+<a href="/movies/pikachu8/">Pikachu's Ghost Festival!</a><br />
+
+<a href="/movies/pikachu9/">Pikachu's Island Adventure!</a><br />
+
+<a href="/movies/pikachu10/">Pikachu's Exploration Club</a><br />
+
+<a href="/movies/pikachu11/">Pikachu's Great Ice Adventure</a><br />
+
+<a href="/movies/pikachu12/">Pikachu's Sparkling Search</a><br />
+
+<a href="/movies/pikachu13/">Pikachu's Really Mysterious Adventure</a><br />
+
+<a href="/movies/eevee/">Eevee & Friends</a><br />
+
+<a href="/movies/klefki/">Pikachu, What's This Key?</a><br />
+
+<a href="/movies/pikachumusic/">Pikachu & The Pok�mon Music Squad</a><br />
+
+
+
+<img src="/Toolbar/headers/TradingCards.gif" border="0" width="140" height="27" alt="Trading Card Game Header"></a><br />
+
+<a href="/card/dex/">Cardex</a><br /> 
+
+<a href="/tcglive/">Pok�mon TCG Live</a><br /> 
+
+ <a href="/card/dex/">Cardex</a><br /> 
+
+ <a href="/card/dex/extra">-Extra Pok�mon Types</a><br /> 
+
+ <a href="/card/dex/trainers">Trainer Cards</a><br /> 
+
+ <a href="/card/dex/energy">Energy Cards</a><br /> 
+
+ <a href="/card/dex/extra/altart.shtml">Alternate Art Cards</a><br /> 
+
+ <a href="/card/raidbattles">Raid Battles</a><br /> 
+
+ <a href="/card/classic/">Pok�mon TCG Classic</a><br /> 
+
+ <a href="/card/english.shtml"><b>English Sets</b></a><br /> 
+
+ <a href="/card/paradoxrift/">-Paradox Rift</a><br /> 
+
+ <a href="/card/151/">-151</a><br /> 
+
+ <a href="/card/obsidianflames/">-Obsidian Flames</a><br /> 
+
+ <a href="/card/paldeaevolved/">-Paldea Evolved</a><br /> 
+
+ <a href="/card/scarletviolet/">-Scarlet Violet</a><br /> 
+
+ <a href="/card/crownzenith/">-Crown Zenith</a><br /> 
+
+ <a href="/card/silvertempest/">-Silver Tempest</a><br /> 
+
+ <a href="/card/lostorigin/">-Lost Origin</a><br /> 
+
+ <a href="/card/pokemongo">-Pok�mon GO x Pok�mon TCG</a><br /> 
+
+ <a href="/card/astralradiance">-Astral Radiance</a><br /> 
+
+ <a href="/card/brilliantstars">-Brilliant Stars</a><br /> 
+
+ <a href="/card/fusionstrike">-Fusion Strike</a><br /> 
+
+ <a href="/card/celebrations">-Celebrations</a><br /> 
+
+ <a href="/card/evolvingskies">-Evolving Skies</a><br /> 
+
+ <a href="/card/chillingreign">-Chilling Reign</a><br /> 
+
+ <a href="/card/battlestyles">-Battle Styles</a><br /> 
+
+ <a href="/card/sm.shtml">-SM Series</a><br /> 
+
+ <a href="/card/xy.shtml">-XY Series</a><br /> 
+
+ <a href="/card/bw.shtml">-BW Series</a><br /> 
+
+ <a href="/card/dpt.shtml">-DPtHS Series</a><br /> 
+
+ <a href="/card/ex.shtml">-EX Series</a><br /> 
+
+ <a href="/card/neo.shtml">-Neo/eSeries</a><br /> 
+
+ <a href="/card/first.shtml">-First Gen Series</a><br /> 
+
+ <a href="/card/engpromo.shtml"><b>English Promos</b></a><br /> 
+
+ <a href="/card/svpromos">-SV Promos</a><br /> 
+
+ <a href="/card/swshpromos">-SWSH Promos</a><br /> 
+
+ <a href="/card/smpromos">-SM Promos</a><br /> 
+
+ <a href="/card/xypromos">-XY Promos</a><br /> 
+
+ <a href="/card/popseries.shtml">-POP Series</a><br /> 
+
+ <a href="/card/japanese.shtml"><b>Japanese Sets</b></a><br /> 
+
+ <a href="/card/futureflash/">-Future Flash</a><br /> 
+
+ <a href="/card/ancientroar/">-Ancient Roar</a><br /> 
+
+ <a href="/card/ragingsurf/">-Raging Surf</a><br /> 
+
+ <a href="/card/pokemoncard151/">-Pok�mon Card 151</a><br /> 
+
+ <a href="/card/snowhazard/">-Snow Hazard</a><br /> 
+
+ <a href="/card/clayburst/">-Clay Burst</a><br /> 
+
+ <a href="/card/tripletbeat/">-Triplet Beat</a><br /> 
+
+ <a href="/card/scarletex/">-Scarlet ex</a><br /> 
+
+ <a href="/card/violetex/">-Violet ex</a><br /> 
+
+ <a href="/card/vstaruniverse/">-VSTAR Universe</a><br /> 
+
+ <a href="/card/paradigmtrigger/">-Paradigm Trigger</a><br /> 
+
+ <a href="/card/incandescentarcana/">-Incandescent Arcana</a><br /> 
+
+ <a href="/card/lostabyss">-Lost Abyss</a><br /> 
+
+ <a href="/card/darkphantasma">-Dark Phantasma</a><br /> 
+
+ <a href="/card/spacejuggler">-Space Juggler</a><br /> 
+
+ <a href="/card/timegazer">-Time Gazer</a><br /> 
+
+ <a href="/card/sword">-Sword</a><br /> 
+
+ <a href="/card/shield">-Shield</a><br /> 
+
+ <a href="/card/tagallstars">-Tag All Stars</a><br /> 
+
+ <a href="/card/vs">-Pok�mon VS</a><br /> 
+
+ <a href="/card/jppromo.shtml"><b>Japanese Promos</b></a><br /> 
+
+ <a href="/card/svpromo">-SV Promos</a><br /> 
+
+ <a href="/card/spromo">-S Promos</a><br /> 
+
+ <a href="/card/smpromo">-SM Promos</a></div>
+
+</td>
+
+<td width="99%" height="362" valign="top" bordercolor="#111111">
+
+<font face="Verdana" size="1" color="#FFFFFF"><div align="center" style="margin-top:10px;padding-bottom: 4px">
+
+<div id="nn_lb1"></div>
+
+</div>
+
+
+<div align=center><table align=center width="95%" border="0" cellspacing="0" cellpadding="4">
+
+
+<tr>
+
+
+<td align="center" width="25%"><FORM NAME="nav"><DIV>
+
+
+ <SELECT NAME="SelectURL" onChange="document.location.href=document.nav.SelectURL.options[document.nav.SelectURL.selectedIndex].value" style="color:#383838; font-size: 8pt; background:#CEBC77" size=1>
+
+
+ <OPTION><b>001 - 151
+
+
+<option value="/spindex-dp/001.shtml">001 Bulbasaur
+
+
+<option value="/spindex-dp/002.shtml">002 Ivysaur
+
+
+<option value="/spindex-dp/003.shtml">003 Venusaur
+
+
+<option value="/spindex-dp/004.shtml">004 Charmander
+
+
+<option value="/spindex-dp/005.shtml">005 Charmeleon
+
+
+<option value="/spindex-dp/006.shtml">006 Charizard
+
+
+<option value="/spindex-dp/007.shtml">007 Squirtle
+
+
+<option value="/spindex-dp/008.shtml">008 Wartortle
+
+
+<option value="/spindex-dp/009.shtml">009 Blastoise
+
+
+<option value="/spindex-dp/010.shtml">010 Caterpie
+
+
+<option value="/spindex-dp/011.shtml">011 Metapod
+
+
+<option value="/spindex-dp/012.shtml">012 Butterfree
+
+
+<option value="/spindex-dp/013.shtml">013 Weedle
+
+
+<option value="/spindex-dp/014.shtml">014 Kakuna
+
+
+<option value="/spindex-dp/015.shtml">015 Beedrill
+
+
+<option value="/spindex-dp/016.shtml">016 Pidgey
+
+
+<option value="/spindex-dp/017.shtml">017 Pidgeotto
+
+
+<option value="/spindex-dp/018.shtml">018 Pidgeot
+
+
+<option value="/spindex-dp/019.shtml">019 Rattata
+
+
+<option value="/spindex-dp/020.shtml">020 Raticate
+
+
+<option value="/spindex-dp/021.shtml">021 Spearow
+
+
+<option value="/spindex-dp/022.shtml">022 Fearow
+
+
+<option value="/spindex-dp/023.shtml">023 Ekans
+
+
+<option value="/spindex-dp/024.shtml">024 Arbok
+
+
+<option value="/spindex-dp/025.shtml">025 Pikachu
+
+
+<option value="/spindex-dp/026.shtml">026 Raichu
+
+
+<option value="/spindex-dp/027.shtml">027 Sandshrew
+
+
+<option value="/spindex-dp/028.shtml">028 Sandslash
+
+
+<option value="/spindex-dp/029.shtml">029 Nidoran-F
+
+
+<option value="/spindex-dp/030.shtml">030 Nidorina
+
+
+<option value="/spindex-dp/031.shtml">031 Nidoqueen
+
+
+<option value="/spindex-dp/032.shtml">032 Nidoran-M
+
+
+<option value="/spindex-dp/033.shtml">033 Nidorino
+
+
+<option value="/spindex-dp/034.shtml">034 Nidoking
+
+
+<option value="/spindex-dp/035.shtml">035 Clefairy
+
+
+<option value="/spindex-dp/036.shtml">036 Clefable
+
+
+<option value="/spindex-dp/037.shtml">037 Vulpix
+
+
+<option value="/spindex-dp/038.shtml">038 Ninetales
+
+
+<option value="/spindex-dp/039.shtml">039 Jigglypuff
+
+
+<option value="/spindex-dp/040.shtml">040 Wigglytuff
+
+
+<option value="/spindex-dp/041.shtml">041 Zubat
+
+
+<option value="/spindex-dp/042.shtml">042 Golbat
+
+
+<option value="/spindex-dp/043.shtml">043 Oddish
+
+
+<option value="/spindex-dp/044.shtml">044 Gloom
+
+
+<option value="/spindex-dp/045.shtml">045 Vileplume
+
+
+<option value="/spindex-dp/046.shtml">046 Paras
+
+
+<option value="/spindex-dp/047.shtml">047 Parasect
+
+
+<option value="/spindex-dp/048.shtml">048 Venonat
+
+
+<option value="/spindex-dp/049.shtml">049 Venomoth
+
+
+<option value="/spindex-dp/050.shtml">050 Diglett
+
+
+<option value="/spindex-dp/051.shtml">051 Dugtrio
+
+
+<option value="/spindex-dp/052.shtml">052 Meowth
+
+
+<option value="/spindex-dp/053.shtml">053 Persian
+
+
+<option value="/spindex-dp/054.shtml">054 Psyduck
+
+
+<option value="/spindex-dp/055.shtml">055 Golduck
+
+
+<option value="/spindex-dp/056.shtml">056 Mankey
+
+
+<option value="/spindex-dp/057.shtml">057 Primeape
+
+
+<option value="/spindex-dp/058.shtml">058 Growlithe
+
+
+<option value="/spindex-dp/059.shtml">059 Arcanine
+
+
+<option value="/spindex-dp/060.shtml">060 Poliwag
+
+
+<option value="/spindex-dp/061.shtml">061 Poliwhirl
+
+
+<option value="/spindex-dp/062.shtml">062 Poliwrath
+
+
+<option value="/spindex-dp/063.shtml">063 Abra
+
+
+<option value="/spindex-dp/064.shtml">064 Kadabra
+
+
+<option value="/spindex-dp/065.shtml">065 Alakazam
+
+
+<option value="/spindex-dp/066.shtml">066 Machop
+
+
+<option value="/spindex-dp/067.shtml">067 Machoke
+
+
+<option value="/spindex-dp/068.shtml">068 Machamp
+
+
+<option value="/spindex-dp/069.shtml">069 Bellsprout
+
+
+<option value="/spindex-dp/070.shtml">070 Weepinbell
+
+
+<option value="/spindex-dp/071.shtml">071 Victreebel
+
+
+<option value="/spindex-dp/072.shtml">072 Tentacool
+
+
+<option value="/spindex-dp/073.shtml">073 Tentacruel
+
+
+<option value="/spindex-dp/074.shtml">074 Geodude
+
+
+<option value="/spindex-dp/075.shtml">075 Graveler
+
+
+<option value="/spindex-dp/076.shtml">076 Golem
+
+
+<option value="/spindex-dp/077.shtml">077 Ponyta
+
+
+<option value="/spindex-dp/078.shtml">078 Rapidash
+
+
+<option value="/spindex-dp/079.shtml">079 Slowpoke
+
+
+<option value="/spindex-dp/080.shtml">080 Slowbro
+
+
+<option value="/spindex-dp/081.shtml">081 Magnemite
+
+
+<option value="/spindex-dp/082.shtml">082 Magneton
+
+
+<option value="/spindex-dp/083.shtml">083 Farfetch'd
+
+
+<option value="/spindex-dp/084.shtml">084 Doduo
+
+
+<option value="/spindex-dp/085.shtml">085 Dodrio
+
+
+<option value="/spindex-dp/086.shtml">086 Seel
+
+
+<option value="/spindex-dp/087.shtml">087 Dewgong
+
+
+<option value="/spindex-dp/088.shtml">088 Grimer
+
+
+<option value="/spindex-dp/089.shtml">089 Muk
+
+
+<option value="/spindex-dp/090.shtml">090 Shellder
+
+
+<option value="/spindex-dp/091.shtml">091 Cloyster
+
+
+<option value="/spindex-dp/092.shtml">092 Gastly
+
+
+<option value="/spindex-dp/093.shtml">093 Haunter
+
+
+<option value="/spindex-dp/094.shtml">094 Gengar
+
+
+<option value="/spindex-dp/095.shtml">095 Onix
+
+
+<option value="/spindex-dp/096.shtml">096 Drowzee
+
+
+<option value="/spindex-dp/097.shtml">097 Hypno
+
+
+<option value="/spindex-dp/098.shtml">098 Krabby
+
+
+<option value="/spindex-dp/099.shtml">099 Kingler
+
+
+<option value="/spindex-dp/100.shtml">100 Voltorb
+
+
+<option value="/spindex-dp/101.shtml">101 Electrode
+
+
+<option value="/spindex-dp/102.shtml">102 Exeggcute
+
+
+<option value="/spindex-dp/103.shtml">103 Exeggutor
+
+
+<option value="/spindex-dp/104.shtml">104 Cubone
+
+
+<option value="/spindex-dp/105.shtml">105 Marowak
+
+
+<option value="/spindex-dp/106.shtml">106 Hitmonlee
+
+
+<option value="/spindex-dp/107.shtml">107 Hitmonchan
+
+
+<option value="/spindex-dp/108.shtml">108 Lickitung
+
+
+<option value="/spindex-dp/109.shtml">109 Koffing
+
+
+<option value="/spindex-dp/110.shtml">110 Weezing
+
+
+<option value="/spindex-dp/111.shtml">111 Rhyhorn
+
+
+<option value="/spindex-dp/112.shtml">112 Rhydon
+
+
+<option value="/spindex-dp/113.shtml">113 Chansey
+
+
+<option value="/spindex-dp/114.shtml">114 Tangela
+
+
+<option value="/spindex-dp/115.shtml">115 Kangaskhan
+
+
+<option value="/spindex-dp/116.shtml">116 Horsea
+
+
+<option value="/spindex-dp/117.shtml">117 Seadra
+
+
+<option value="/spindex-dp/118.shtml">118 Goldeen
+
+
+<option value="/spindex-dp/119.shtml">119 Seaking
+
+
+<option value="/spindex-dp/120.shtml">120 Staryu
+
+
+<option value="/spindex-dp/121.shtml">121 Starmie
+
+
+<option value="/spindex-dp/122.shtml">122 Mr.Mime
+
+
+<option value="/spindex-dp/123.shtml">123 Scyther
+
+
+<option value="/spindex-dp/124.shtml">124 Jynx
+
+
+<option value="/spindex-dp/125.shtml">125 Electabuzz
+
+
+<option value="/spindex-dp/126.shtml">126 Magmar
+
+
+<option value="/spindex-dp/127.shtml">127 Pinsir
+
+
+<option value="/spindex-dp/128.shtml">128 Tauros
+
+
+<option value="/spindex-dp/129.shtml">129 Magikarp
+
+
+<option value="/spindex-dp/130.shtml">130 Gyarados
+
+
+<option value="/spindex-dp/131.shtml">131 Lapras
+
+
+<option value="/spindex-dp/132.shtml">132 Ditto
+
+
+<option value="/spindex-dp/133.shtml">133 Eevee
+
+
+<option value="/spindex-dp/134.shtml">134 Vaporeon
+
+
+<option value="/spindex-dp/135.shtml">135 Jolteon
+
+
+<option value="/spindex-dp/136.shtml">136 Flareon
+
+
+<option value="/spindex-dp/137.shtml">137 Porygon
+
+
+<option value="/spindex-dp/138.shtml">138 Omanyte
+
+
+<option value="/spindex-dp/139.shtml">139 Omastar
+
+
+<option value="/spindex-dp/140.shtml">140 Kabuto
+
+
+<option value="/spindex-dp/141.shtml">141 Kabutops
+
+
+<option value="/spindex-dp/142.shtml">142 Aerodactyl
+
+
+<option value="/spindex-dp/143.shtml">143 Snorlax
+
+
+<option value="/spindex-dp/144.shtml">144 Articuno
+
+
+<option value="/spindex-dp/145.shtml">145 Zapdos
+
+
+<option value="/spindex-dp/146.shtml">146 Moltres
+
+
+<option value="/spindex-dp/147.shtml">147 Dratini
+
+
+<option value="/spindex-dp/148.shtml">148 Dragonair
+
+
+<option value="/spindex-dp/149.shtml">149 Dragonite
+
+
+<option value="/spindex-dp/150.shtml">150 Mewtwo
+
+
+<option value="/spindex-dp/151.shtml">151 Mew
+
+
+</SELECT><DIV> </FORM></td>
+
+
+<td align="center" width="25%">
+
+
+<FORM NAME="nav2"><DIV>
+
+
+ <SELECT NAME="SelectURL" onChange="document.location.href=document.nav2.SelectURL.options[document.nav2.SelectURL.selectedIndex].value" style="color:#383838; font-size: 8pt; background:#CEBC77" size=1>
+
+
+ <OPTION><b>152 - 251
+
+
+<option value="/spindex-dp/152.shtml">152 Chikorita
+
+
+<option value="/spindex-dp/153.shtml">153 Bayleef
+
+
+<option value="/spindex-dp/154.shtml">154 Meganium
+
+
+<option value="/spindex-dp/155.shtml">155 Cyndaquil
+
+
+<option value="/spindex-dp/156.shtml">156 Quilava
+
+
+<option value="/spindex-dp/157.shtml">157 Typhlosion
+
+
+<option value="/spindex-dp/158.shtml">158 Totodile
+
+
+<option value="/spindex-dp/159.shtml">159 Croconaw
+
+
+<option value="/spindex-dp/160.shtml">160 Feraligatr
+
+
+<option value="/spindex-dp/161.shtml">161 Sentret
+
+
+<option value="/spindex-dp/162.shtml">162 Furret
+
+
+<option value="/spindex-dp/163.shtml">163 Hoothoot
+
+
+<option value="/spindex-dp/164.shtml">164 Noctowl
+
+
+<option value="/spindex-dp/165.shtml">165 Ledyba
+
+
+<option value="/spindex-dp/166.shtml">166 Ledian
+
+
+<option value="/spindex-dp/167.shtml">167 Spinarak
+
+
+<option value="/spindex-dp/168.shtml">168 Ariados
+
+
+<option value="/spindex-dp/169.shtml">169 Crobat
+
+
+<option value="/spindex-dp/170.shtml">170 Chinchou
+
+
+<option value="/spindex-dp/171.shtml">171 Lanturn
+
+
+<option value="/spindex-dp/172.shtml">172 Pichu
+
+
+<option value="/spindex-dp/173.shtml">173 Cleffa
+
+
+<option value="/spindex-dp/174.shtml">174 Igglybuff
+
+
+<option value="/spindex-dp/175.shtml">175 Togepi
+
+
+<option value="/spindex-dp/176.shtml">176 Togetic
+
+
+<option value="/spindex-dp/177.shtml">177 Natu
+
+
+<option value="/spindex-dp/178.shtml">178 Xatu
+
+
+<option value="/spindex-dp/179.shtml">179 Mareep
+
+
+<option value="/spindex-dp/180.shtml">180 Flaaffy
+
+
+<option value="/spindex-dp/181.shtml">181 Ampharos
+
+
+<option value="/spindex-dp/182.shtml">182 Bellossom
+
+
+<option value="/spindex-dp/183.shtml">183 Marill
+
+
+<option value="/spindex-dp/184.shtml">184 Azumarill
+
+
+<option value="/spindex-dp/185.shtml">185 Sudowoodo
+
+
+<option value="/spindex-dp/186.shtml">186 Politoed
+
+
+<option value="/spindex-dp/187.shtml">187 Hoppip
+
+
+<option value="/spindex-dp/188.shtml">188 Skiploom
+
+
+<option value="/spindex-dp/189.shtml">189 Jumpluff
+
+
+<option value="/spindex-dp/190.shtml">190 Aipom
+
+
+<option value="/spindex-dp/191.shtml">191 Sunkern
+
+
+<option value="/spindex-dp/192.shtml">192 Sunflora
+
+
+<option value="/spindex-dp/193.shtml">193 Yanma
+
+
+<option value="/spindex-dp/194.shtml">194 Wooper
+
+
+<option value="/spindex-dp/195.shtml">195 Quagsire
+
+
+<option value="/spindex-dp/196.shtml">196 Espeon
+
+
+<option value="/spindex-dp/197.shtml">197 Umbreon
+
+
+<option value="/spindex-dp/198.shtml">198 Murkrow
+
+
+<option value="/spindex-dp/199.shtml">199 Slowking
+
+
+<option value="/spindex-dp/200.shtml">200 Misdreavus
+
+
+<option value="/spindex-dp/201.shtml">201 Unown
+
+
+<option value="/spindex-dp/202.shtml">202 Wobbuffet
+
+
+<option value="/spindex-dp/203.shtml">203 Girafarig 
+
+
+<option value="/spindex-dp/204.shtml">204 Pineco
+
+
+<option value="/spindex-dp/205.shtml">205 Forretress
+
+
+<option value="/spindex-dp/206.shtml">206 Dunsparce
+
+
+<option value="/spindex-dp/207.shtml">207 Gligar
+
+
+<option value="/spindex-dp/208.shtml">208 Steelix
+
+
+<option value="/spindex-dp/209.shtml">209 Snubbull
+
+
+<option value="/spindex-dp/210.shtml">210 Granbull
+
+
+<option value="/spindex-dp/211.shtml">211 Qwilfish
+
+
+<option value="/spindex-dp/212.shtml">212 Scizor
+
+
+<option value="/spindex-dp/213.shtml">213 Shuckle
+
+
+<option value="/spindex-dp/214.shtml">214 Heracross
+
+
+<option value="/spindex-dp/215.shtml">215 Sneasel
+
+
+<option value="/spindex-dp/216.shtml">216 Teddiursa
+
+
+<option value="/spindex-dp/217.shtml">217 Ursaring
+
+
+<option value="/spindex-dp/218.shtml">218 Slugma
+
+
+<option value="/spindex-dp/219.shtml">219 Magcargo
+
+
+<option value="/spindex-dp/220.shtml">220 Swinub
+
+
+<option value="/spindex-dp/221.shtml">221 Piloswine
+
+
+<option value="/spindex-dp/222.shtml">222 Corsola
+
+
+<option value="/spindex-dp/223.shtml">223 Remoraid
+
+
+<option value="/spindex-dp/224.shtml">224 Octillery
+
+
+<option value="/spindex-dp/225.shtml">225 Delibird
+
+
+<option value="/spindex-dp/226.shtml">226 Mantine
+
+
+<option value="/spindex-dp/227.shtml">227 Skarmory
+
+
+<option value="/spindex-dp/228.shtml">228 Houndour
+
+
+<option value="/spindex-dp/229.shtml">229 Houndoom
+
+
+<option value="/spindex-dp/230.shtml">230 Kingdra
+
+
+<option value="/spindex-dp/231.shtml">231 Phanpy
+
+
+<option value="/spindex-dp/232.shtml">232 Donphan
+
+
+<option value="/spindex-dp/233.shtml">233 Porygon 2
+
+
+<option value="/spindex-dp/234.shtml">234 Stantler
+
+
+<option value="/spindex-dp/235.shtml">235 Smeargle
+
+
+<option value="/spindex-dp/236.shtml">236 Tyrogue
+
+
+<option value="/spindex-dp/237.shtml">237 Hitmontop
+
+
+<option value="/spindex-dp/238.shtml">238 Smoochum
+
+
+<option value="/spindex-dp/239.shtml">239 Elekid
+
+
+<option value="/spindex-dp/240.shtml">240 Magby
+
+
+<option value="/spindex-dp/241.shtml">241 Miltank
+
+
+<option value="/spindex-dp/242.shtml">242 Blissey
+
+
+<option value="/spindex-dp/243.shtml">243 Raikou
+
+
+<option value="/spindex-dp/244.shtml">244 Entei
+
+
+<option value="/spindex-dp/245.shtml">245 Suicune
+
+
+<option value="/spindex-dp/246.shtml">246 Larvitar
+
+
+<option value="/spindex-dp/247.shtml">247 Pupitar
+
+
+<option value="/spindex-dp/248.shtml">248 Tyranitar
+
+
+<option value="/spindex-dp/249.shtml">249 Lugia
+
+
+<option value="/spindex-dp/250.shtml">250 Ho-oh
+
+
+<option value="/spindex-dp/251.shtml">251 Celebi
+
+
+</SELECT><DIV> </FORM></td>
+
+
+<td align="center" width="25%"> <FORM NAME="nav4"><DIV>
+
+
+ <SELECT NAME="SelectURL" onChange="document.location.href=document.nav4.SelectURL.options[document.nav4.SelectURL.selectedIndex].value" style="color:#383838; font-size: 8pt; background:#CEBC77" size=1>
+
+
+ <OPTION><b>252-386
+
+
+<option value="/spindex-dp/252.shtml">252 Treecko
+
+
+<option value="/spindex-dp/253.shtml">253 Grovyle
+
+
+<option value="/spindex-dp/254.shtml">254 Sceptile
+
+
+<option value="/spindex-dp/255.shtml">255 Torchic
+
+
+<option value="/spindex-dp/256.shtml">256 Combusken
+
+
+<option value="/spindex-dp/257.shtml">257 Blaziken
+
+
+<option value="/spindex-dp/258.shtml">258 Mudkip
+
+
+<option value="/spindex-dp/259.shtml">259 Marshtomp
+
+
+<option value="/spindex-dp/260.shtml">260 Swampert
+
+
+<option value="/spindex-dp/261.shtml">261 Poochyena
+
+
+<option value="/spindex-dp/262.shtml">262 Mightyena
+
+
+<option value="/spindex-dp/263.shtml">263 Zigzagoon
+
+
+<option value="/spindex-dp/264.shtml">264 Linoone
+
+
+<option value="/spindex-dp/265.shtml">265 Wurmple
+
+
+<option value="/spindex-dp/266.shtml">266 Silcoon
+
+
+<option value="/spindex-dp/267.shtml">267 Beautifly
+
+
+<option value="/spindex-dp/268.shtml">268 Cascoon
+
+
+<option value="/spindex-dp/269.shtml">269 Dustox
+
+
+<option value="/spindex-dp/270.shtml">270 Lotad
+
+
+<option value="/spindex-dp/271.shtml">271 Lombre
+
+
+<option value="/spindex-dp/272.shtml">272 Ludicolo
+
+
+<option value="/spindex-dp/273.shtml">273 Seedot
+
+
+<option value="/spindex-dp/274.shtml">274 Nuzleaf
+
+
+<option value="/spindex-dp/275.shtml">275 Shiftry
+
+
+<option value="/spindex-dp/276.shtml">276 Taillow
+
+
+<option value="/spindex-dp/277.shtml">277 Swellow
+
+
+<option value="/spindex-dp/278.shtml">278 Wingull
+
+
+<option value="/spindex-dp/279.shtml">279 Pelipper
+
+
+<option value="/spindex-dp/280.shtml">280 Ralts
+
+
+<option value="/spindex-dp/281.shtml">281 Kirlia
+
+
+<option value="/spindex-dp/282.shtml">282 Gardevoir
+
+
+<option value="/spindex-dp/283.shtml">283 Surskit
+
+
+<option value="/spindex-dp/284.shtml">284 Masquerain
+
+
+<option value="/spindex-dp/285.shtml">285 Shroomish
+
+
+<option value="/spindex-dp/286.shtml">286 Breloom
+
+
+<option value="/spindex-dp/287.shtml">287 Slakoth
+
+
+<option value="/spindex-dp/288.shtml">288 Vigoroth
+
+
+<option value="/spindex-dp/289.shtml">289 Slaking
+
+
+<option value="/spindex-dp/290.shtml">290 Nincada
+
+
+<option value="/spindex-dp/291.shtml">291 Ninjask
+
+
+<option value="/spindex-dp/292.shtml">292 Shedinja
+
+
+<option value="/spindex-dp/293.shtml">293 Whismur
+
+
+<option value="/spindex-dp/294.shtml">294 Loudred
+
+
+<option value="/spindex-dp/295.shtml">295 Exploud
+
+
+<option value="/spindex-dp/296.shtml">296 Makuhita
+
+
+<option value="/spindex-dp/297.shtml">297 Hariyama
+
+
+<option value="/spindex-dp/298.shtml">298 Azurill
+
+
+<option value="/spindex-dp/299.shtml">299 Nosepass
+
+
+<option value="/spindex-dp/300.shtml">300 Skitty
+
+
+<option value="/spindex-dp/301.shtml">301 Delcatty
+
+
+<option value="/spindex-dp/302.shtml">302 Sableye
+
+
+<option value="/spindex-dp/303.shtml">303 Mawile
+
+
+<option value="/spindex-dp/304.shtml">304 Aron
+
+
+<option value="/spindex-dp/305.shtml">305 Lairon
+
+
+<option value="/spindex-dp/306.shtml">306 Aggron
+
+
+<option value="/spindex-dp/307.shtml">307 Meditite
+
+
+<option value="/spindex-dp/308.shtml">308 Medicham
+
+
+<option value="/spindex-dp/309.shtml">309 Electrike
+
+
+<option value="/spindex-dp/310.shtml">310 Manectric 
+
+
+<option value="/spindex-dp/311.shtml">311 Plusle
+
+
+<option value="/spindex-dp/312.shtml">312 Minun
+
+
+<option value="/spindex-dp/313.shtml">313 Volbeat
+
+
+<option value="/spindex-dp/314.shtml">314 Illumise
+
+
+<option value="/spindex-dp/315.shtml">315 Roselia
+
+
+<option value="/spindex-dp/316.shtml">316 Gulpin
+
+
+<option value="/spindex-dp/317.shtml">317 Swalot
+
+
+<option value="/spindex-dp/318.shtml">318 Carvanha
+
+
+<option value="/spindex-dp/319.shtml">319 Sharpedo
+
+
+<option value="/spindex-dp/320.shtml">320 Wailmer
+
+
+<option value="/spindex-dp/321.shtml">321 Wailord
+
+
+<option value="/spindex-dp/322.shtml">322 Numel
+
+
+<option value="/spindex-dp/323.shtml">323 Camerupt
+
+
+<option value="/spindex-dp/324.shtml">324 Torkoal
+
+
+<option value="/spindex-dp/325.shtml">325 Spoink
+
+
+<option value="/spindex-dp/326.shtml">326 Grumpig
+
+
+<option value="/spindex-dp/327.shtml">327 Spinda
+
+
+<option value="/spindex-dp/328.shtml">328 Trapinch
+
+
+<option value="/spindex-dp/329.shtml">329 Vibrava
+
+
+<option value="/spindex-dp/330.shtml">330 Flygon
+
+
+<option value="/spindex-dp/331.shtml">331 Cacnea
+
+
+<option value="/spindex-dp/332.shtml">332 Cacturne
+
+
+<option value="/spindex-dp/333.shtml">333 Swablu 
+
+
+<option value="/spindex-dp/334.shtml">334 Altaria
+
+
+<option value="/spindex-dp/335.shtml">335 Zangoose
+
+
+<option value="/spindex-dp/336.shtml">336 Seviper
+
+
+<option value="/spindex-dp/337.shtml">337 Lunatone
+
+
+<option value="/spindex-dp/338.shtml">338 Solrock
+
+
+<option value="/spindex-dp/339.shtml">339 Barboach
+
+
+<option value="/spindex-dp/340.shtml">340 Whiscash
+
+
+<option value="/spindex-dp/341.shtml">341 Corphish
+
+
+<option value="/spindex-dp/342.shtml">342 Crawdaunt
+
+
+<option value="/spindex-dp/343.shtml">343 Baltoy
+
+
+<option value="/spindex-dp/344.shtml">344 Claydol
+
+
+<option value="/spindex-dp/345.shtml">345 Lileep
+
+
+<option value="/spindex-dp/346.shtml">346 Cradily
+
+
+<option value="/spindex-dp/347.shtml">347 Anorith
+
+
+<option value="/spindex-dp/348.shtml">348 Armaldo
+
+
+<option value="/spindex-dp/349.shtml">349 Feebas
+
+
+<option value="/spindex-dp/350.shtml">350 Milotic
+
+
+<option value="/spindex-dp/351.shtml">351 Castform
+
+
+<option value="/spindex-dp/352.shtml">352 Kecleon
+
+
+<option value="/spindex-dp/353.shtml">353 Shuppet
+
+
+<option value="/spindex-dp/354.shtml">354 Banette
+
+
+<option value="/spindex-dp/355.shtml">355 Duskull
+
+
+<option value="/spindex-dp/356.shtml">356 Dusclops
+
+
+<option value="/spindex-dp/357.shtml">357 Tropius
+
+
+<option value="/spindex-dp/358.shtml">358 Chimecho
+
+
+<option value="/spindex-dp/359.shtml">359 Absol
+
+
+<option value="/spindex-dp/360.shtml">360 Wynaut
+
+
+<option value="/spindex-dp/361.shtml">361 Snorunt
+
+
+<option value="/spindex-dp/362.shtml">362 Glalie
+
+
+<option value="/spindex-dp/363.shtml">363 Spheal
+
+
+<option value="/spindex-dp/364.shtml">364 Sealeo
+
+
+<option value="/spindex-dp/365.shtml">365 Walrein
+
+
+<option value="/spindex-dp/366.shtml">366 Clamperl
+
+
+<option value="/spindex-dp/367.shtml">367 Huntail
+
+
+<option value="/spindex-dp/368.shtml">368 Gorebyss
+
+
+<option value="/spindex-dp/369.shtml">369 Relicanth
+
+
+<option value="/spindex-dp/370.shtml">370 Luvdisc
+
+
+<option value="/spindex-dp/371.shtml">371 Bagon
+
+
+<option value="/spindex-dp/372.shtml">372 Shellgon
+
+
+<option value="/spindex-dp/373.shtml">373 Salamence
+
+
+<option value="/spindex-dp/374.shtml">374 Beldum
+
+
+<option value="/spindex-dp/375.shtml">375 Metang
+
+
+<option value="/spindex-dp/376.shtml">376 Metagross
+
+
+<option value="/spindex-dp/377.shtml">377 Regirock
+
+
+<option value="/spindex-dp/378.shtml">378 Regice
+
+
+<option value="/spindex-dp/379.shtml">379 Registeel
+
+
+<option value="/spindex-dp/380.shtml">380 Latias
+
+
+<option value="/spindex-dp/381.shtml">381 Latios
+
+
+<option value="/spindex-dp/382.shtml">382 Kyogre
+
+
+<option value="/spindex-dp/383.shtml">383 Groudon
+
+
+<option value="/spindex-dp/384.shtml">384 Rayquaza
+
+
+<option value="/spindex-dp/385.shtml">385 Jirachi
+
+
+<option value="/spindex-dp/386.shtml">386 Deoxys 
+
+
+</SELECT><DIV> </FORM></td>
+
+
+<td width="25%" align="center"> <FORM NAME="nav8">
+
+
+ <SELECT NAME="SelectURL" onChange="document.location.href=document.nav8.SelectURL.options[document.nav8.SelectURL.selectedIndex].value" style="color:#383838; font-size: 8pt; background:#CEBC77" size=1>
+
+
+ <OPTION><b>387-493
+
+
+<option value="/spindex-dp/387.shtml">387 Turtwig 
+
+<option value="/spindex-dp/388.shtml">388 Grotle
+
+<option value="/spindex-dp/389.shtml">389 Torterra 
+
+<option value="/spindex-dp/390.shtml">390 Chimchar 
+
+<option value="/spindex-dp/391.shtml">391 Monferno 
+
+<option value="/spindex-dp/392.shtml">392 Infernape 
+
+<option value="/spindex-dp/393.shtml">393 Piplup
+
+<option value="/spindex-dp/394.shtml">394 Prinplup
+
+<option value="/spindex-dp/395.shtml">395 Empoleon 
+
+<option value="/spindex-dp/396.shtml">396 Starly 
+
+<option value="/spindex-dp/397.shtml">397 Staravia 
+
+<option value="/spindex-dp/398.shtml">398 Staraptor 
+
+<option value="/spindex-dp/399.shtml">399 Bidoof 
+
+<option value="/spindex-dp/400.shtml">400 Bibarel 
+
+<option value="/spindex-dp/401.shtml">401 Kricketot 
+
+<option value="/spindex-dp/402.shtml">402 Kricketune 
+
+<option value="/spindex-dp/403.shtml">403 Shinx 
+
+<option value="/spindex-dp/404.shtml">404 Luxio 
+
+<option value="/spindex-dp/405.shtml">405 Luxray
+
+<option value="/spindex-dp/406.shtml">406 Budew
+
+<option value="/spindex-dp/407.shtml">407 Roserade
+
+<option value="/spindex-dp/408.shtml">408 Cranidos 
+
+<option value="/spindex-dp/409.shtml">409 Rampardos 
+
+<option value="/spindex-dp/410.shtml">410 Shieldon
+
+<option value="/spindex-dp/411.shtml">411 Bastiodon 
+
+<option value="/spindex-dp/412.shtml">412 Burmy 
+
+<option value="/spindex-dp/413.shtml">413 Wormadam 
+
+<option value="/spindex-dp/414.shtml">414 Mothim 
+
+<option value="/spindex-dp/415.shtml">415 Combee 
+
+<option value="/spindex-dp/416.shtml">416 Vespiquen 
+
+<option value="/spindex-dp/417.shtml">417 Pachirisu 
+
+<option value="/spindex-dp/418.shtml">418 Buizel 
+
+<option value="/spindex-dp/419.shtml">419 Floatzel 
+
+<option value="/spindex-dp/420.shtml">420 Cherubi 
+
+<option value="/spindex-dp/421.shtml">421 Cherrim 
+
+<option value="/spindex-dp/422.shtml">422 Shellos 
+
+<option value="/spindex-dp/423.shtml">423 Gastrodon 
+
+<option value="/spindex-dp/424.shtml">424 Ambipom 
+
+<option value="/spindex-dp/425.shtml">425 Drifloon 
+
+<option value="/spindex-dp/426.shtml">426 Drifblim
+
+<option value="/spindex-dp/427.shtml">427 Buneary 
+
+<option value="/spindex-dp/428.shtml">428 Lopunny 
+
+<option value="/spindex-dp/429.shtml">429 Mismagius 
+
+<option value="/spindex-dp/430.shtml">430 Honchkrow 
+
+<option value="/spindex-dp/431.shtml">431 Glameow 
+
+<option value="/spindex-dp/432.shtml">432 Purugly 
+
+<option value="/spindex-dp/433.shtml">433 Chingling 
+
+<option value="/spindex-dp/434.shtml">434 Stunky 
+
+<option value="/spindex-dp/435.shtml">435 Skuntank 
+
+<option value="/spindex-dp/436.shtml">436 Bronzor 
+
+<option value="/spindex-dp/437.shtml">437 Bronzong 
+
+<option value="/spindex-dp/438.shtml">438 Bonsly 
+
+<option value="/spindex-dp/439.shtml">439 Mime Jr. 
+
+<option value="/spindex-dp/440.shtml">440 Happiny 
+
+<option value="/spindex-dp/441.shtml">441 Chatot 
+
+<option value="/spindex-dp/442.shtml">442 Spiritomb 
+
+<option value="/spindex-dp/443.shtml">443 Gible 
+
+<option value="/spindex-dp/444.shtml">444 Gabite 
+
+<option value="/spindex-dp/445.shtml">445 Garchomp 
+
+<option value="/spindex-dp/446.shtml">446 Munchlax 
+
+<option value="/spindex-dp/447.shtml">447 Riolu 
+
+<option value="/spindex-dp/448.shtml">448 Lucario 
+
+<option value="/spindex-dp/449.shtml">449 Hippopotas 
+
+<option value="/spindex-dp/450.shtml">450 Hippowdon 
+
+<option value="/spindex-dp/451.shtml">451 Skorupi
+
+<option value="/spindex-dp/452.shtml">452 Drapion 
+
+<option value="/spindex-dp/453.shtml">453 Croagunk 
+
+<option value="/spindex-dp/454.shtml">454 Toxicroak 
+
+<option value="/spindex-dp/455.shtml">455 Carnivine 
+
+<option value="/spindex-dp/456.shtml">456 Finneon 
+
+<option value="/spindex-dp/457.shtml">457 Lumineon 
+
+<option value="/spindex-dp/458.shtml">458 Mantyke 
+
+<option value="/spindex-dp/459.shtml">459 Snover 
+
+<option value="/spindex-dp/460.shtml">460 Abomasnow 
+
+<option value="/spindex-dp/461.shtml">461 Weavile 
+
+<option value="/spindex-dp/462.shtml">462 Magnezone 
+
+<option value="/spindex-dp/463.shtml">463 Lickilicky 
+
+<option value="/spindex-dp/464.shtml">464 Rhyperior 
+
+<option value="/spindex-dp/465.shtml">465 Tangrowth 
+
+<option value="/spindex-dp/466.shtml">466 Electivire 
+
+<option value="/spindex-dp/467.shtml">467 Magmortar
+
+<option value="/spindex-dp/468.shtml">468 Togekiss 
+
+<option value="/spindex-dp/469.shtml">469 Yanmega 
+
+<option value="/spindex-dp/470.shtml">470 Leafeon 
+
+<option value="/spindex-dp/471.shtml">471 Glaceon 
+
+<option value="/spindex-dp/472.shtml">472 Gliscor 
+
+<option value="/spindex-dp/473.shtml">473 Mamoswine 
+
+<option value="/spindex-dp/474.shtml">474 Porygon-Z 
+
+<option value="/spindex-dp/475.shtml">475 Gallade 
+
+<option value="/spindex-dp/476.shtml">476 Probopass 
+
+<option value="/spindex-dp/477.shtml">477 Dusknoir 
+
+<option value="/spindex-dp/478.shtml">478 Froslass 
+
+<option value="/spindex-dp/479.shtml">479 Rotom
+
+<option value="/spindex-dp/480.shtml">480 Uxie 
+
+<option value="/spindex-dp/481.shtml">481 Mesprit 
+
+<option value="/spindex-dp/482.shtml">482 Azelf 
+
+<option value="/spindex-dp/483.shtml">483 Dialga 
+
+<option value="/spindex-dp/484.shtml">484 Palkia 
+
+<option value="/spindex-dp/485.shtml">485 Heatran 
+
+<option value="/spindex-dp/486.shtml">486 Regigigas 
+
+<option value="/spindex-dp/487.shtml">487 Giratina 
+
+<option value="/spindex-dp/488.shtml">488 Cresselia 
+
+<option value="/spindex-dp/489.shtml">489 Phione 
+
+<option value="/spindex-dp/490.shtml">490 Manaphy 
+
+<option value="/spindex-dp/491.shtml">491 Darkrai 
+
+<option value="/spindex-dp/492.shtml">492 Shaymin 
+
+<option value="/spindex-dp/493.shtml">493 Arceus 
+
+</SELECT> </FORM></td>
+
+
+
+
+
+</tr>
+
+
+<tr>
+
+
+<td align="center" width="25%"><FORM NAME="nav5"><DIV>
+
+
+ <SELECT NAME="SelectURL" onChange="document.location.href=document.nav5.SelectURL.options[document.nav5.SelectURL.selectedIndex].value" style="color:#383838; font-size: 8pt; background:#CEBC77" size=1>
+
+
+ <OPTION>Almia: 001-105
+
+<option value="/spindex-dp/172.shtml">R-001 Pichu </option>
+
+<option value="/spindex-dp/025.shtml">R-002 Pikachu </option>
+
+<option value="/spindex-dp/026.shtml">R-003 Raichu </option>
+
+<option value="/spindex-dp/399.shtml">R-004 Bidoof </option>
+
+<option value="/spindex-dp/400.shtml">R-005 Bibarel </option>
+
+<option value="/spindex-dp/276.shtml">R-006 Taillow </option>
+
+<option value="/spindex-dp/277.shtml">R-007 Swellow </option>
+
+<option value="/spindex-dp/406.shtml">R-008 Budew </option>
+
+<option value="/spindex-dp/315.shtml">R-009 Roselia </option>
+
+<option value="/spindex-dp/407.shtml">R-010 Roserade </option>
+
+<option value="/spindex-dp/007.shtml">R-011 Squirtle </option>
+
+<option value="/spindex-dp/008.shtml">R-012 Wartortle </option>
+
+<option value="/spindex-dp/009.shtml">R-013 Blastoise </option>
+
+<option value="/spindex-dp/041.shtml">R-014 Zubat </option>
+
+<option value="/spindex-dp/042.shtml">R-015 Golbat </option>
+
+<option value="/spindex-dp/169.shtml">R-016 Crobat </option>
+
+<option value="/spindex-dp/092.shtml">R-017 Gastly </option>
+
+<option value="/spindex-dp/093.shtml">R-018 Haunter </option>
+
+<option value="/spindex-dp/094.shtml">R-019 Gengar </option>
+
+<option value="/spindex-dp/427.shtml">R-020 Buneary </option>
+
+<option value="/spindex-dp/428.shtml">R-021 Lopunny </option>
+
+<option value="/spindex-dp/440.shtml">R-022 Happiny </option>
+
+<option value="/spindex-dp/396.shtml">R-023 Starly </option>
+
+<option value="/spindex-dp/397.shtml">R-024 Staravia </option>
+
+<option value="/spindex-dp/398.shtml">R-025 Staraptor </option>
+
+<option value="/spindex-dp/417.shtml">R-026 Pachirisu </option>
+
+<option value="/spindex-dp/446.shtml">R-027 Munchlax </option>
+
+<option value="/spindex-dp/296.shtml">R-028 Makuhita </option>
+
+<option value="/spindex-dp/297.shtml">R-029 Hariyama </option>
+
+<option value="/spindex-dp/438.shtml">R-030 Bonsly </option>
+
+<option value="/spindex-dp/185.shtml">R-031 Sudowoodo </option>
+
+<option value="/spindex-dp/287.shtml">R-032 Slakoth </option>
+
+<option value="/spindex-dp/273.shtml">R-033 Seedot </option>
+
+<option value="/spindex-dp/274.shtml">R-034 Nuzleaf </option>
+
+<option value="/spindex-dp/275.shtml">R-035 Shiftry </option>
+
+<option value="/spindex-dp/465.shtml">R-036 Tangrowth </option>
+
+<option value="/spindex-dp/422.shtml">R-037 Shellos </option>
+
+<option value="/spindex-dp/423.shtml">R-038 Gastrodon </option>
+
+<option value="/spindex-dp/431.shtml">R-039 Glameow </option>
+
+<option value="/spindex-dp/432.shtml">R-040 Purugly </option>
+
+<option value="/spindex-dp/074.shtml">R-041 Geodude </option>
+
+<option value="/spindex-dp/075.shtml">R-042 Graveler </option>
+
+<option value="/spindex-dp/076.shtml">R-043 Golem </option>
+
+<option value="/spindex-dp/299.shtml">R-044 Nosepass </option>
+
+<option value="/spindex-dp/476.shtml">R-045 Probopass </option>
+
+<option value="/spindex-dp/241.shtml">R-046 Miltank </option>
+
+<option value="/spindex-dp/420.shtml">R-047 Cherubi </option>
+
+<option value="/spindex-dp/421.shtml">R-048 Cherrim </option>
+
+<option value="/spindex-dp/403.shtml">R-049 Shinx </option>
+
+<option value="/spindex-dp/404.shtml">R-050 Luxio </option>
+
+<option value="/spindex-dp/405.shtml">R-051 Luxray </option>
+
+<option value="/spindex-dp/387.shtml">R-052 Turtwig </option>
+
+<option value="/spindex-dp/388.shtml">R-053 Grotle </option>
+
+<option value="/spindex-dp/389.shtml">R-054 Torterra </option>
+
+<option value="/spindex-dp/418.shtml">R-055 Buizel </option>
+
+<option value="/spindex-dp/419.shtml">R-056 Floatzel </option>
+
+<option value="/spindex-dp/013.shtml">R-057 Weedle </option>
+
+<option value="/spindex-dp/018.shtml">R-058 Beedrill </option>
+
+<option value="/spindex-dp/415.shtml">R-059 Combee </option>
+
+<option value="/spindex-dp/416.shtml">R-060 Vespiquen </option>
+
+<option value="/spindex-dp/236.shtml">R-061 Tyrogue </option>
+
+<option value="/spindex-dp/082.shtml">R-062 Magnemite </option>
+
+<option value="/spindex-dp/083.shtml">R-063 Magneton </option>
+
+<option value="/spindex-dp/462.shtml">R-064 Magnezone </option>
+
+<option value="/spindex-dp/058.shtml">R-065 Growlithe </option>
+
+<option value="/spindex-dp/059.shtml">R-066 Arcanine </option>
+
+<option value="/spindex-dp/019.shtml">R-067 Rattata </option>
+
+<option value="/spindex-dp/020.shtml">R-068 Raticate </option>
+
+<option value="/spindex-dp/441.shtml">R-069 Chatot </option>
+
+<option value="/spindex-dp/239.shtml">R-070 Elekid </option>
+
+<option value="/spindex-dp/125.shtml">R-071 Electabuzz </option>
+
+<option value="/spindex-dp/466.shtml">R-072 Electivire </option>
+
+<option value="/spindex-dp/240.shtml">R-073 Magby </option>
+
+<option value="/spindex-dp/126.shtml">R-074 Magmar </option>
+
+<option value="/spindex-dp/467.shtml">R-075 Magmortar </option>
+
+<option value="/spindex-dp/100.shtml">R-076 Voltorb </option>
+
+<option value="/spindex-dp/101.shtml">R-077 Electrode </option>
+
+<option value="/spindex-dp/278.shtml">R-078 Wingull </option>
+
+<option value="/spindex-dp/279.shtml">R-079 Pelipper </option>
+
+<option value="/spindex-dp/453.shtml">R-080 Croagunk </option>
+
+<option value="/spindex-dp/454.shtml">R-081 Toxicroak </option>
+
+<option value="/spindex-dp/401.shtml">R-082 Kricketot </option>
+
+<option value="/spindex-dp/402.shtml">R-083 Kricketune </option>
+
+<option value="/spindex-dp/408.shtml">R-084 Cranidos </option>
+
+<option value="/spindex-dp/409.shtml">R-085 Rampardos </option>
+
+<option value="/spindex-dp/456.shtml">R-086 Finneon </option>
+
+<option value="/spindex-dp/457.shtml">R-087 Lumineon </option>
+
+<option value="/spindex-dp/170.shtml">R-088 Chinchou </option>
+
+<option value="/spindex-dp/171.shtml">R-089 Lanturn </option>
+
+<option value="/spindex-dp/458.shtml">R-090 Mantyke </option>
+
+<option value="/spindex-dp/226.shtml">R-091 Mantine </option>
+
+<option value="/spindex-dp/211.shtml">R-092 Qwilfish </option>
+
+<option value="/spindex-dp/222.shtml">R-093 Corsola </option>
+
+<option value="/spindex-dp/120.shtml">R-094 Staryu </option>
+
+<option value="/spindex-dp/121.shtml">R-095 Starmie </option>
+
+<option value="/spindex-dp/319.shtml">R-096 Sharpedo </option>
+
+<option value="/spindex-dp/133.shtml">R-097 Eevee </option>
+
+<option value="/spindex-dp/134.shtml">R-098 Vaporeon </option>
+
+<option value="/spindex-dp/135.shtml">R-099 Jolteon </option>
+
+<option value="/spindex-dp/136.shtml">R-100 Flareon </option>
+
+<option value="/spindex-dp/196.shtml">R-101 Espeon </option>
+
+<option value="/spindex-dp/197.shtml">R-102 Umbreon </option>
+
+<option value="/spindex-dp/470.shtml">R-103 Leafeon </option>
+
+<option value="/spindex-dp/471.shtml">R-104 Glaceon </option>
+
+<option value="/spindex-dp/179.shtml">R-105 Mareep </option>
+
+<option value="/spindex-dp/180.shtml">R-106 Flaaffy </option>
+
+<option value="/spindex-dp/181.shtml">R-107 Ampharos </option>
+
+<option value="/spindex-dp/190.shtml">R-108 Aipom </option>
+
+<option value="/spindex-dp/424.shtml">R-109 Ambipom </option>
+
+<option value="/spindex-dp/204.shtml">R-110 Pineco </option>
+
+<option value="/spindex-dp/205.shtml">R-111 Forretress </option>
+
+<option value="/spindex-dp/021.shtml">R-112 Spearow </option>
+
+<option value="/spindex-dp/022.shtml">R-113 Fearow </option>
+
+<option value="/spindex-dp/043.shtml">R-114 Oddish </option>
+
+<option value="/spindex-dp/044.shtml">R-115 Gloom </option>
+
+<option value="/spindex-dp/045.shtml">R-116 Vileplume </option>
+
+<option value="/spindex-dp/182.shtml">R-117 Bellossom </option>
+
+<option value="/spindex-dp/193.shtml">R-118 Yanma </option>
+
+<option value="/spindex-dp/469.shtml">R-119 Yanmega </option>
+
+<option value="/spindex-dp/246.shtml">R-120 Larvitar </option>
+
+<option value="/spindex-dp/247.shtml">R-121 Pupitar </option>
+
+<option value="/spindex-dp/248.shtml">R-122 Tyranitar </option>
+
+<option value="/spindex-dp/127.shtml">R-123 Pinsir </option>
+
+<option value="/spindex-dp/322.shtml">R-124 Numel </option>
+
+<option value="/spindex-dp/323.shtml">R-125 Camerupt </option>
+
+<option value="/spindex-dp/056.shtml">R-126 Mankey </option>
+
+<option value="/spindex-dp/057.shtml">R-127 Primeape </option>
+
+<option value="/spindex-dp/207.shtml">R-128 Gligar </option>
+
+<option value="/spindex-dp/472.shtml">R-129 Gliscor </option>
+
+<option value="/spindex-dp/303.shtml">R-130 Mawile </option>
+
+<option value="/spindex-dp/304.shtml">R-131 Aron </option>
+
+<option value="/spindex-dp/305.shtml">R-132 Lairon </option>
+
+<option value="/spindex-dp/306.shtml">R-133 Aggron </option>
+
+<option value="/spindex-dp/084.shtml">R-134 Doduo </option>
+
+<option value="/spindex-dp/085.shtml">R-135 Dodrio </option>
+
+
+
+</SELECT></FORM></td>
+
+
+<td align="center" width="25%">
+
+
+
+<FORM NAME="nav6"><DIV>
+
+
+
+ <SELECT NAME="SelectURL" onChange="document.location.href=document.nav6.SelectURL.options[document.nav6.SelectURL.selectedIndex].value" style="color:#383838; font-size: 8pt; background:#CEBC77" size=1>
+
+
+
+ <OPTION>Almia: 136-267
+
+
+
+<option value="/spindex-dp/455.shtml">R-136 Carnivine </option>
+
+<option value="/spindex-dp/004.shtml">R-137 Charmander </option>
+
+<option value="/spindex-dp/005.shtml">R-138 Charmeleon </option>
+
+<option value="/spindex-dp/006.shtml">R-139 Charizard </option>
+
+<option value="/spindex-dp/218.shtml">R-140 Slugma </option>
+
+<option value="/spindex-dp/219.shtml">R-141 Magcargo </option>
+
+<option value="/spindex-dp/425.shtml">R-142 Drifloon </option>
+
+<option value="/spindex-dp/426.shtml">R-143 Drifblim </option>
+
+<option value="/spindex-dp/434.shtml">R-144 Stunky </option>
+
+<option value="/spindex-dp/435.shtml">R-145 Skuntank </option>
+
+<option value="/spindex-dp/115.shtml">R-146 Kangaskhan </option>
+
+<option value="/spindex-dp/353.shtml">R-147 Shuppet </option>
+
+<option value="/spindex-dp/354.shtml">R-148 Banette </option>
+
+<option value="/spindex-dp/111.shtml">R-149 Rhyhorn </option>
+
+<option value="/spindex-dp/112.shtml">R-150 Rhydon </option>
+
+<option value="/spindex-dp/464.shtml">R-151 Rhyperior </option>
+
+<option value="/spindex-dp/089.shtml">R-152 Muk </option>
+
+<option value="/spindex-dp/228.shtml">R-153 Houndour </option>
+
+<option value="/spindex-dp/229.shtml">R-154 Houndoom </option>
+
+<option value="/spindex-dp/167.shtml">R-155 Spinarak </option>
+
+<option value="/spindex-dp/168.shtml">R-156 Ariados </option>
+
+<option value="/spindex-dp/280.shtml">R-157 Ralts </option>
+
+<option value="/spindex-dp/281.shtml">R-158 Kirlia </option>
+
+<option value="/spindex-dp/282.shtml">R-159 Gardevoir </option>
+
+<option value="/spindex-dp/475.shtml">R-160 Gallade </option>
+
+<option value="/spindex-dp/066.shtml">R-161 Machop </option>
+
+<option value="/spindex-dp/067.shtml">R-162 Machoke </option>
+
+<option value="/spindex-dp/068.shtml">R-163 Machamp </option>
+
+<option value="/spindex-dp/439.shtml">R-164 Mime Jr. </option>
+
+<option value="/spindex-dp/122.shtml">R-165 Mr. Mime </option>
+
+<option value="/spindex-dp/096.shtml">R-166 Drowzee </option>
+
+<option value="/spindex-dp/097.shtml">R-167 Hypno </option>
+
+<option value="/spindex-dp/390.shtml">R-168 Chimchar </option>
+
+<option value="/spindex-dp/391.shtml">R-169 Monferno </option>
+
+<option value="/spindex-dp/392.shtml">R-170 Infernape </option>
+
+<option value="/spindex-dp/037.shtml">R-171 Vulpix </option>
+
+<option value="/spindex-dp/038.shtml">R-172 Ninetales </option>
+
+<option value="/spindex-dp/451.shtml">R-173 Skorupi </option>
+
+<option value="/spindex-dp/452.shtml">R-174 Drapion </option>
+
+<option value="/spindex-dp/463.shtml">R-175 Lickilicky </option>
+
+<option value="/spindex-dp/077.shtml">R-176 Ponyta </option>
+
+<option value="/spindex-dp/078.shtml">R-177 Rapidash </option>
+
+<option value="/spindex-dp/203.shtml">R-178 Girafarig </option>
+
+<option value="/spindex-dp/128.shtml">R-179 Tauros </option>
+
+<option value="/spindex-dp/291.shtml">R-180 Ninjask </option>
+
+<option value="/spindex-dp/410.shtml">R-181 Shieldon </option>
+
+<option value="/spindex-dp/411.shtml">R-182 Bastiodon </option>
+
+<option value="/spindex-dp/063.shtml">R-183 Abra </option>
+
+<option value="/spindex-dp/065.shtml">R-184 Alakazam </option>
+
+<option value="/spindex-dp/198.shtml">R-185 Murkrow </option>
+
+<option value="/spindex-dp/430.shtml">R-186 Honchrkrow </option>
+
+<option value="/spindex-dp/109.shtml">R-187 Koffing </option>
+
+<option value="/spindex-dp/110.shtml">R-188 Weezing </option>
+
+<option value="/spindex-dp/227.shtml">R-189 Skarmory </option>
+
+<option value="/spindex-dp/355.shtml">R-190 Duskull </option>
+
+<option value="/spindex-dp/356.shtml">R-191 Dusclops </option>
+
+<option value="/spindex-dp/477.shtml">R-192 Dusknoir </option>
+
+<option value="/spindex-dp/302.shtml">R-193 Sableye </option>
+
+<option value="/spindex-dp/027.shtml">R-194 Sandshrew </option>
+
+<option value="/spindex-dp/028.shtml">R-195 Sandslash </option>
+
+<option value="/spindex-dp/442.shtml">R-196 Spiritomb </option>
+
+<option value="/spindex-dp/363.shtml">R-197 Spheal </option>
+
+<option value="/spindex-dp/364.shtml">R-198 Sealeo </option>
+
+<option value="/spindex-dp/365.shtml">R-199 Walrein </option>
+
+<option value="/spindex-dp/220.shtml">R-200 Swinub </option>
+
+<option value="/spindex-dp/221.shtml">R-201 Piloswine </option>
+
+<option value="/spindex-dp/473.shtml">R-202 Mamoswine </option>
+
+<option value="/spindex-dp/039.shtml">R-203 Jigglypuff </option>
+
+<option value="/spindex-dp/040.shtml">R-204 Wigglytuff </option>
+
+<option value="/spindex-dp/433.shtml">R-205 Chingling </option>
+
+<option value="/spindex-dp/393.shtml">R-206 Piplup </option>
+
+<option value="/spindex-dp/394.shtml">R-207 Prinplup </option>
+
+<option value="/spindex-dp/395.shtml">R-208 Empoleon </option>
+
+<option value="/spindex-dp/225.shtml">R-209 Delibird </option>
+
+<option value="/spindex-dp/124.shtml">R-210 Jynx </option>
+
+<option value="/spindex-dp/459.shtml">R-211 Snover </option>
+
+<option value="/spindex-dp/460.shtml">R-212 Abomasnow </option>
+
+<option value="/spindex-dp/361.shtml">R-213 Snorunt </option>
+
+<option value="/spindex-dp/362.shtml">R-214 Glalie </option>
+
+<option value="/spindex-dp/478.shtml">R-215 Froslass </option>
+
+<option value="/spindex-dp/123.shtml">R-216 Scyther </option>
+
+<option value="/spindex-dp/212.shtml">R-217 Scizor </option>
+
+<option value="/spindex-dp/147.shtml">R-218 Dratini </option>
+
+<option value="/spindex-dp/148.shtml">R-219 Dragonair </option>
+
+<option value="/spindex-dp/200.shtml">R-220 Misdreavus </option>
+
+<option value="/spindex-dp/429.shtml">R-221 Mismagius </option>
+
+<option value="/spindex-dp/447.shtml">R-222 Riolu </option>
+
+<option value="/spindex-dp/448.shtml">R-223 Lucario </option>
+
+<option value="/spindex-dp/324.shtml">R-224 Torkoal </option>
+
+<option value="/spindex-dp/371.shtml">R-225 Bagon </option>
+
+<option value="/spindex-dp/372.shtml">R-226 Shelgon </option>
+
+<option value="/spindex-dp/373.shtml">R-227 Salamence </option>
+
+<option value="/spindex-dp/485.shtml">R-228 Heatran </option>
+
+<option value="/spindex-dp/116.shtml">R-229 Horsea </option>
+
+<option value="/spindex-dp/117.shtml">R-230 Seadra </option>
+
+<option value="/spindex-dp/230.shtml">R-231 Kingdra </option>
+
+<option value="/spindex-dp/367.shtml">R-232 Huntail </option>
+
+<option value="/spindex-dp/368.shtml">R-233 Gorebyss </option>
+
+<option value="/spindex-dp/073.shtml">R-234 Tentacruel </option>
+
+<option value="/spindex-dp/138.shtml">R-235 Omanyte </option>
+
+<option value="/spindex-dp/139.shtml">R-236 Omastar </option>
+
+<option value="/spindex-dp/320.shtml">R-237 Wailmer </option>
+
+<option value="/spindex-dp/321.shtml">R-238 Wailord </option>
+
+<option value="/spindex-dp/331.shtml">R-239 Cacnea </option>
+
+<option value="/spindex-dp/332.shtml">R-240 Cacturne </option>
+
+<option value="/spindex-dp/414.shtml">R-241 Mothim </option>
+
+<option value="/spindex-dp/071.shtml">R-242 Victreebel </option>
+
+<option value="/spindex-dp/254.shtml">R-243 Sceptile </option>
+
+<option value="/spindex-dp/215.shtml">R-244 Sneasel </option>
+
+<option value="/spindex-dp/461.shtml">R-245 Weavile </option>
+
+<option value="/spindex-dp/449.shtml">R-246 Hippopotas </option>
+
+<option value="/spindex-dp/450.shtml">R-247 Hippowdon </option>
+
+<option value="/spindex-dp/436.shtml">R-248 Bronzor </option>
+
+<option value="/spindex-dp/437.shtml">R-249 Bronzong </option>
+
+<option value="/spindex-dp/344.shtml">R-250 Claydol </option>
+
+<option value="/spindex-dp/443.shtml">R-251 Gible </option>
+
+<option value="/spindex-dp/444.shtml">R-252 Gabite </option>
+
+<option value="/spindex-dp/445.shtml">R-253 Garchomp </option>
+
+<option value="/spindex-dp/488.shtml">R-254 Cresselia </option>
+
+<option value="/spindex-dp/257.shtml">R-255 Blaziken </option>
+
+<option value="/spindex-dp/359.shtml">R-256 Absol </option>
+
+<option value="/spindex-dp/491.shtml">R-257 Darkrai </option>
+
+<option value="/spindex-dp/142.shtml">R-258 Aerodactyl </option>
+
+<option value="/spindex-dp/330.shtml">R-259 Flygon </option>
+
+<option value="/spindex-dp/334.shtml">R-260 Altaria </option>
+
+<option value="/spindex-dp/468.shtml">R-261 Togekiss </option>
+
+<option value="/spindex-dp/474.shtml">R-262 Porygon-Z </option>
+
+<option value="/spindex-dp/251.shtml">R-263 Celebi </option>
+
+<option value="/spindex-dp/377.shtml">R-264 Regirock </option>
+
+<option value="/spindex-dp/378.shtml">R-265 Regice </option>
+
+<option value="/spindex-dp/379.shtml">R-266 Registeel </option>
+
+<option value="/spindex-dp/486.shtml">R-267 Regigigas </option>
+
+</SELECT></FORM></td>
+
+
+
+<td align="center" width="25%">
+
+
+
+<FORM NAME="nav7"><DIV>
+
+
+
+ <SELECT NAME="SelectURL" onChange="document.location.href=document.nav7.SelectURL.options[document.nav7.SelectURL.selectedIndex].value" style="color:#383838; font-size: 8pt; background:#CEBC77" size=1>
+
+
+
+ <OPTION>Oblivia: 1-150</option>
+
+<option value="/spindex-dp/016.shtml">R-001 Pidgey</option>
+
+<option value="/spindex-dp/017.shtml">R-002 Pidgeotto</option>
+
+<option value="/spindex-dp/018.shtml">R-003 Pidgeot</option>
+
+<option value="/spindex-dp/172.shtml">R-004 Pichu</option>
+
+<option value="/spindex-dp/025.shtml">R-005 Pikachu</option>
+
+<option value="/spindex-dp/026.shtml">R-006 Raichu</option>
+
+<option value="/spindex-dp/179.shtml">R-007 Mareep</option>
+
+<option value="/spindex-dp/180.shtml">R-008 Flaaffy</option>
+
+<option value="/spindex-dp/181.shtml">R-008 Ampharos</option>
+
+
+
+<option value="/spindex-dp/191.shtml">R-010 Sunkern</option>
+
+<option value="/spindex-dp/192.shtml">R-011 Sunflora</option>
+
+<option value="/spindex-dp/161.shtml">R-012 Sentret</option>
+
+<option value="/spindex-dp/162.shtml">R-013 Furret</option>
+
+<option value="/spindex-dp/001.shtml">R-014 Bulbasaur</option>
+
+<option value="/spindex-dp/002.shtml">R-015 Ivysaur</option>
+
+<option value="/spindex-dp/003.shtml">R-015 Venusaur</option>
+
+<option value="/spindex-dp/216.shtml">R-017 Teddiursa</option>
+
+<option value="/spindex-dp/217.shtml">R-018 Ursaring</option>
+
+
+
+<option value="/spindex-dp/183.shtml">R-019 Marill</option>
+
+<option value="/spindex-dp/184.shtml">R-020 Azumarill</option>
+
+<option value="/spindex-dp/098.shtml">R-021 Krabby</option>
+
+<option value="/spindex-dp/099.shtml">R-022 Kingler</option>
+
+<option value="/spindex-dp/278.shtml">R-023 Wingull</option>
+
+<option value="/spindex-dp/279.shtml">R-024 Pelipper</option>
+
+<option value="/spindex-dp/417.shtml">R-025 Pachirisu</option>
+
+<option value="/spindex-dp/187.shtml">R-026 Hoppip</option>
+
+<option value="/spindex-dp/188.shtml">R-027 Skiploom</option>
+
+
+
+<option value="/spindex-dp/189.shtml">R-028 Jumpluff</option>
+
+<option value="/spindex-dp/401.shtml">R-029 Kricketot</option>
+
+<option value="/spindex-dp/402.shtml">R-030 Kricketune</option>
+
+<option value="/spindex-dp/163.shtml">R-031 Hoothoot</option>
+
+<option value="/spindex-dp/164.shtml">R-032 Noctowl</option>
+
+<option value="/spindex-dp/234.shtml">R-033 Stantler</option>
+
+<option value="/spindex-dp/167.shtml">R-034 Spinarak</option>
+
+<option value="/spindex-dp/168.shtml">R-035 Ariados</option>
+
+<option value="/spindex-dp/418.shtml">R-036 Buizel</option>
+
+
+
+<option value="/spindex-dp/419.shtml">R-037 Floatzel</option>
+
+<option value="/spindex-dp/453.shtml">R-038 Croagunk</option>
+
+<option value="/spindex-dp/454.shtml">R-039 Toxicroak</option>
+
+<option value="/spindex-dp/261.shtml">R-040 Poochyena</option>
+
+<option value="/spindex-dp/262.shtml">R-041 Mightyena</option>
+
+<option value="/spindex-dp/041.shtml">R-042 Zubat</option>
+
+<option value="/spindex-dp/042.shtml">R-043 Golbat</option>
+
+<option value="/spindex-dp/169.shtml">R-044 Crobat</option>
+
+<option value="/spindex-dp/109.shtml">R-045 Koffing</option>
+
+
+
+<option value="/spindex-dp/110.shtml">R-046 Weezing</option>
+
+<option value="/spindex-dp/074.shtml">R-047 Geodude</option>
+
+<option value="/spindex-dp/075.shtml">R-048 Graveler</option>
+
+<option value="/spindex-dp/076.shtml">R-049 Golem</option>
+
+<option value="/spindex-dp/408.shtml">R-050 Cranidos</option>
+
+<option value="/spindex-dp/409.shtml">R-051 Rampardos</option>
+
+<option value="/spindex-dp/206.shtml">R-052 Dunsparce</option>
+
+<option value="/spindex-dp/434.shtml">R-053 Stunky</option>
+
+<option value="/spindex-dp/435.shtml">R-054 Skuntank</option>
+
+
+
+<option value="/spindex-dp/198.shtml">R-055 Murkrow</option>
+
+<option value="/spindex-dp/430.shtml">R-056 Honchkrow</option>
+
+<option value="/spindex-dp/251.shtml">R-057 Celebi</option>
+
+<option value="/spindex-dp/131.shtml">R-058 Lapras</option>
+
+<option value="/spindex-dp/370.shtml">R-059 Luvdisc</option>
+
+<option value="/spindex-dp/170.shtml">R-060 Chinchou</option>
+
+<option value="/spindex-dp/171.shtml">R-061 Lanturn</option>
+
+<option value="/spindex-dp/458.shtml">R-062 Mantyke</option>
+
+<option value="/spindex-dp/226.shtml">R-063 Mantine</option>
+
+
+
+<option value="/spindex-dp/366.shtml">R-064 Clamperl</option>
+
+<option value="/spindex-dp/367.shtml">R-065 Huntail</option>
+
+<option value="/spindex-dp/368.shtml">R-066 Gorebyss</option>
+
+<option value="/spindex-dp/222.shtml">R-067 Corsola</option>
+
+<option value="/spindex-dp/116.shtml">R-068 Horsea</option>
+
+<option value="/spindex-dp/117.shtml">R-069 Seadra</option>
+
+<option value="/spindex-dp/230.shtml">R-070 Kingdra</option>
+
+<option value="/spindex-dp/318.shtml">R-071 Carvanha</option>
+
+<option value="/spindex-dp/319.shtml">R-072 Sharpedo</option>
+
+
+
+<option value="/spindex-dp/174.shtml">R-073 Igglybuff</option>
+
+<option value="/spindex-dp/446.shtml">R-074 Munchlax</option>
+
+<option value="/spindex-dp/133.shtml">R-075 Eevee</option>
+
+<option value="/spindex-dp/134.shtml">R-076 Vaporeon</option>
+
+<option value="/spindex-dp/135.shtml">R-077 Jolteon</option>
+
+<option value="/spindex-dp/136.shtml">R-078 Flareon</option>
+
+<option value="/spindex-dp/196.shtml">R-079 Espeon</option>
+
+<option value="/spindex-dp/197.shtml">R-080 Umbreon</option>
+
+<option value="/spindex-dp/470.shtml">R-081 Leafeon</option>
+
+
+
+<option value="/spindex-dp/471.shtml">R-082 Glaceon</option>
+
+<option value="/spindex-dp/393.shtml">R-083 Piplup</option>
+
+<option value="/spindex-dp/394.shtml">R-084 Prinplup</option>
+
+<option value="/spindex-dp/395.shtml">R-085 Empoleon</option>
+
+<option value="/spindex-dp/422.shtml">R-086 Shellos</option>
+
+<option value="/spindex-dp/423.shtml">R-087 Gastrodon</option>
+
+<option value="/spindex-dp/190.shtml">R-088 Aipom</option>
+
+<option value="/spindex-dp/424.shtml">R-089 Ambipom</option>
+
+<option value="/spindex-dp/158.shtml">R-090 Totodile</option>
+
+
+
+<option value="/spindex-dp/159.shtml">R-091 Croconaw</option>
+
+<option value="/spindex-dp/160.shtml">R-092 Feraligatr</option>
+
+<option value="/spindex-dp/165.shtml">R-093 Ledyba</option>
+
+<option value="/spindex-dp/166.shtml">R-094 Ledian</option>
+
+<option value="/spindex-dp/258.shtml">R-095 Mudkip</option>
+
+<option value="/spindex-dp/259.shtml">R-096 Marshtomp</option>
+
+<option value="/spindex-dp/260.shtml">R-097 Swampert</option>
+
+<option value="/spindex-dp/185.shtml">R-098 Sudowoodo</option>
+
+<option value="/spindex-dp/438.shtml">R-098 Bonsly</option>
+
+
+
+<option value="/spindex-dp/236.shtml">R-100 Tyrogue</option>
+
+<option value="/spindex-dp/106.shtml">R-101 Hitmonlee</option>
+
+<option value="/spindex-dp/107.shtml">R-102 Hitmonchan</option>
+
+<option value="/spindex-dp/237.shtml">R-103 Hitmontop</option>
+
+<option value="/spindex-dp/202.shtml">R-104 Wobbuffet</option>
+
+<option value="/spindex-dp/309.shtml">R-105 Electrike</option>
+
+<option value="/spindex-dp/310.shtml">R-106 Manectric</option>
+
+<option value="/spindex-dp/207.shtml">R-107 Gligar</option>
+
+<option value="/spindex-dp/472.shtml">R-108 Gliscor</option>
+
+
+
+<option value="/spindex-dp/213.shtml">R-109 Shuckle</option>
+
+<option value="/spindex-dp/081.shtml">R-110 Magnemite</option>
+
+<option value="/spindex-dp/082.shtml">R-111 Magneton</option>
+
+<option value="/spindex-dp/462.shtml">R-112 Magnezone</option>
+
+<option value="/spindex-dp/100.shtml">R-113 Voltorb</option>
+
+<option value="/spindex-dp/101.shtml">R-114 Electrode</option>
+
+<option value="/spindex-dp/239.shtml">R-115 Elekid</option>
+
+<option value="/spindex-dp/125.shtml">R-116 Electabuzz</option>
+
+<option value="/spindex-dp/466.shtml">R-117 Electivire</option>
+
+
+
+<option value="/spindex-dp/233.shtml">R-118 Porygon2</option>
+
+<option value="/spindex-dp/474.shtml">R-119 Porygon-Z</option>
+
+<option value="/spindex-dp/304.shtml">R-120 Aron</option>
+
+<option value="/spindex-dp/305.shtml">R-121 Lairon</option>
+
+<option value="/spindex-dp/306.shtml">R-122 Aggron</option>
+
+<option value="/spindex-dp/403.shtml">R-123 Shinx</option>
+
+<option value="/spindex-dp/404.shtml">R-124 Luxio</option>
+
+<option value="/spindex-dp/405.shtml">R-125 Luxray</option>
+
+<option value="/spindex-dp/243.shtml">R-126 Raikou</option>
+
+
+
+<option value="/spindex-dp/043.shtml">R-127 Oddish</option>
+
+<option value="/spindex-dp/044.shtml">R-128 Gloom</option>
+
+<option value="/spindex-dp/045.shtml">R-129 Vileplume</option>
+
+<option value="/spindex-dp/182.shtml">R-130 Bellossom</option>
+
+<option value="/spindex-dp/420.shtml">R-131 Cherubi</option>
+
+<option value="/spindex-dp/421.shtml">R-132 Cherrim</option>
+
+<option value="/spindex-dp/280.shtml">R-133 Ralts</option>
+
+<option value="/spindex-dp/281.shtml">R-134 Kirlia</option>
+
+<option value="/spindex-dp/282.shtml">R-135 Gardevoir</option>
+
+
+
+<option value="/spindex-dp/475.shtml">R-136 Gallade</option>
+
+<option value="/spindex-dp/399.shtml">R-137 Bidoof</option>
+
+<option value="/spindex-dp/400.shtml">R-138 Bibarel</option>
+
+<option value="/spindex-dp/387.shtml">R-139 Turtwig</option>
+
+<option value="/spindex-dp/388.shtml">R-140 Grotle</option>
+
+<option value="/spindex-dp/389.shtml">R-141 Torterra</option>
+
+<option value="/spindex-dp/252.shtml">R-142 Treecko</option>
+
+<option value="/spindex-dp/253.shtml">R-143 Grovyle</option>
+
+<option value="/spindex-dp/254.shtml">R-144 Sceptile</option>
+
+
+
+<option value="/spindex-dp/406.shtml">R-145 Budew</option>
+
+<option value="/spindex-dp/315.shtml">R-146 Roselia</option>
+
+<option value="/spindex-dp/407.shtml">R-147 Roserade</option>
+
+<option value="/spindex-dp/355.shtml">R-148 Duskull</option>
+
+<option value="/spindex-dp/356.shtml">R-149 Dusclops</option>
+
+<option value="/spindex-dp/477.shtml">R-150 Dusknoir</option>
+
+
+
+
+
+</SELECT></FORM></td>
+
+<td align="center" width="25%">
+
+
+
+<FORM NAME="nav9"><DIV>
+
+
+
+ <SELECT NAME="SelectURL" onChange="document.location.href=document.nav9.SelectURL.options[document.nav9.SelectURL.selectedIndex].value" style="color:#383838; font-size: 8pt; background:#CEBC77" size=1>
+
+
+
+ <OPTION>Oblivia: 151-301</option>
+
+<option value="/spindex-dp/194.shtml">R-151 Wooper</option>
+
+<option value="/spindex-dp/195.shtml">R-152 Quagsire</option>
+
+<option value="/spindex-dp/175.shtml">R-153 Togepi</option>
+
+
+
+<option value="/spindex-dp/176.shtml">R-154 Togetic</option>
+
+<option value="/spindex-dp/468.shtml">R-155 Togekiss</option>
+
+<option value="/spindex-dp/414.shtml">R-156 Mothim</option>
+
+<option value="/spindex-dp/155.shtml">R-157 Cyndaquil</option>
+
+<option value="/spindex-dp/156.shtml">R-158 Quilava</option>
+
+<option value="/spindex-dp/157.shtml">R-159 Typhlosion</option>
+
+<option value="/spindex-dp/200.shtml">R-160 Misdreavus</option>
+
+<option value="/spindex-dp/429.shtml">R-161 Mismagius</option>
+
+<option value="/spindex-dp/431.shtml">R-162 Glameow</option>
+
+
+
+<option value="/spindex-dp/432.shtml">R-163 Purugly</option>
+
+<option value="/spindex-dp/092.shtml">R-164 Gastly</option>
+
+<option value="/spindex-dp/093.shtml">R-165 Haunter</option>
+
+<option value="/spindex-dp/094.shtml">R-166 Gengar</option>
+
+<option value="/spindex-dp/037.shtml">R-167 Vulpix</option>
+
+<option value="/spindex-dp/038.shtml">R-168 Ninetales</option>
+
+<option value="/spindex-dp/439.shtml">R-169 Mime Jr.</option>
+
+<option value="/spindex-dp/152.shtml">R-170 Chikorita</option>
+
+<option value="/spindex-dp/153.shtml">R-171 Bayleef</option>
+
+
+
+<option value="/spindex-dp/154.shtml">R-172 Meganium</option>
+
+<option value="/spindex-dp/343.shtml">R-173 Baltoy</option>
+
+<option value="/spindex-dp/344.shtml">R-174 Claydol</option>
+
+<option value="/spindex-dp/177.shtml">R-175 Natu</option>
+
+<option value="/spindex-dp/178.shtml">R-176 Xatu</option>
+
+<option value="/spindex-dp/302.shtml">R-177 Sableye</option>
+
+<option value="/spindex-dp/410.shtml">R-178 Shieldon</option>
+
+<option value="/spindex-dp/411.shtml">R-179 Bastiodon</option>
+
+<option value="/spindex-dp/027.shtml">R-180 Sandshrew</option>
+
+
+
+<option value="/spindex-dp/028.shtml">R-180 Sandslash</option>
+
+<option value="/spindex-dp/056.shtml">R-182 Mankey</option>
+
+<option value="/spindex-dp/057.shtml">R-183 Primeape</option>
+
+<option value="/spindex-dp/436.shtml">R-184 Bronzor</option>
+
+<option value="/spindex-dp/437.shtml">R-185 Bronzong</option>
+
+<option value="/spindex-dp/244.shtml">R-186 Entei</option>
+
+<option value="/spindex-dp/240.shtml">R-187 Magby</option>
+
+<option value="/spindex-dp/126.shtml">R-188 Magmar</option>
+
+<option value="/spindex-dp/467.shtml">R-189 Magmortar</option>
+
+
+
+<option value="/spindex-dp/204.shtml">R-190 Pineco</option>
+
+<option value="/spindex-dp/205.shtml">R-191 Forretress</option>
+
+<option value="/spindex-dp/415.shtml">R-192 Combee</option>
+
+<option value="/spindex-dp/416.shtml">R-193 Vespiquen</option>
+
+<option value="/spindex-dp/390.shtml">R-194 Chimchar</option>
+
+<option value="/spindex-dp/391.shtml">R-195 Monferno</option>
+
+<option value="/spindex-dp/392.shtml">R-196 Infernape</option>
+
+<option value="/spindex-dp/296.shtml">R-197 Makuhita</option>
+
+<option value="/spindex-dp/297.shtml">R-198 Hariyama</option>
+
+
+
+<option value="/spindex-dp/443.shtml">R-199 Gible</option>
+
+<option value="/spindex-dp/444.shtml">R-200 Gabite</option>
+
+<option value="/spindex-dp/445.shtml">R-201 Garchomp</option>
+
+<option value="/spindex-dp/215.shtml">R-202 Sneasel</option>
+
+<option value="/spindex-dp/461.shtml">R-203 Weavile</option>
+
+<option value="/spindex-dp/193.shtml">R-204 Yanma</option>
+
+<option value="/spindex-dp/469.shtml">R-205 Yanmega</option>
+
+<option value="/spindex-dp/004.shtml">R-206 Charmander</option>
+
+<option value="/spindex-dp/005.shtml">R-207 Charmeleon</option>
+
+
+
+<option value="/spindex-dp/006.shtml">R-208 Charizard</option>
+
+<option value="/spindex-dp/231.shtml">R-209 Phanpy</option>
+
+<option value="/spindex-dp/232.shtml">R-210 Donphan</option>
+
+<option value="/spindex-dp/255.shtml">R-211 Torchic</option>
+
+<option value="/spindex-dp/256.shtml">R-212 Combusken</option>
+
+<option value="/spindex-dp/257.shtml">R-213 Blaziken</option>
+
+<option value="/spindex-dp/322.shtml">R-214 Numel</option>
+
+<option value="/spindex-dp/323.shtml">R-215 Camerupt</option>
+
+<option value="/spindex-dp/246.shtml">R-216 Larvitar</option>
+
+
+
+<option value="/spindex-dp/247.shtml">R-217 Pupitar</option>
+
+<option value="/spindex-dp/248.shtml">R-218 Tyranitar</option>
+
+<option value="/spindex-dp/371.shtml">R-219 Bagon</option>
+
+<option value="/spindex-dp/372.shtml">R-220 Shelgon</option>
+
+<option value="/spindex-dp/373.shtml">R-221 Salamence</option>
+
+<option value="/spindex-dp/123.shtml">R-222 Scyther</option>
+
+<option value="/spindex-dp/212.shtml">R-223 Scizor</option>
+
+<option value="/spindex-dp/374.shtml">R-224 Beldum</option>
+
+<option value="/spindex-dp/375.shtml">R-225 Metang</option>
+
+
+
+<option value="/spindex-dp/376.shtml">R-226 Metagross</option>
+
+<option value="/spindex-dp/440.shtml">R-227 Happiny</option>
+
+<option value="/spindex-dp/396.shtml">R-228 Starly</option>
+
+<option value="/spindex-dp/397.shtml">R-229 Staravia</option>
+
+<option value="/spindex-dp/398.shtml">R-230 Staraptor</option>
+
+<option value="/spindex-dp/227.shtml">R-231 Skarmory</option>
+
+<option value="/spindex-dp/425.shtml">R-232 Drifloon</option>
+
+<option value="/spindex-dp/426.shtml">R-233 Drifblim</option>
+
+<option value="/spindex-dp/441.shtml">R-234 Chatot</option>
+
+
+
+<option value="/spindex-dp/235.shtml">R-235 Smeargle</option>
+
+<option value="/spindex-dp/209.shtml">R-236 Snubbull</option>
+
+<option value="/spindex-dp/210.shtml">R-237 Granbull</option>
+
+<option value="/spindex-dp/455.shtml">R-238 Carnivine</option>
+
+<option value="/spindex-dp/186.shtml">R-239 Politoed</option>
+
+<option value="/spindex-dp/173.shtml">R-240 Cleffa</option>
+
+<option value="/spindex-dp/203.shtml">R-241 Girafarig</option>
+
+<option value="/spindex-dp/085.shtml">R-242 Dodrio</option>
+
+<option value="/spindex-dp/270.shtml">R-243 Lotad</option>
+
+
+
+<option value="/spindex-dp/271.shtml">R-244 Lombre</option>
+
+<option value="/spindex-dp/272.shtml">R-245 Ludicolo</option>
+
+<option value="/spindex-dp/456.shtml">R-246 Finneon</option>
+
+<option value="/spindex-dp/457.shtml">R-247 Lumineon</option>
+
+<option value="/spindex-dp/369.shtml">R-248 Relicanth</option>
+
+<option value="/spindex-dp/245.shtml">R-249 Suicune</option>
+
+<option value="/spindex-dp/463.shtml">R-250 Lickilicky</option>
+
+<option value="/spindex-dp/427.shtml">R-251 Buneary</option>
+
+<option value="/spindex-dp/428.shtml">R-252 Lopunny</option>
+
+
+
+<option value="/spindex-dp/363.shtml">R-253 Spheal</option>
+
+<option value="/spindex-dp/364.shtml">R-254 Sealeo</option>
+
+<option value="/spindex-dp/365.shtml">R-255 Walrein</option>
+
+<option value="/spindex-dp/225.shtml">R-256 Delibird</option>
+
+<option value="/spindex-dp/459.shtml">R-257 Snover</option>
+
+<option value="/spindex-dp/460.shtml">R-258 Abomasnow</option>
+
+<option value="/spindex-dp/238.shtml">R-259 Smoochum</option>
+
+<option value="/spindex-dp/433.shtml">R-260 Chingling</option>
+
+<option value="/spindex-dp/358.shtml">R-261 Chimecho</option>
+
+
+
+<option value="/spindex-dp/451.shtml">R-262 Skorupi</option>
+
+<option value="/spindex-dp/452.shtml">R-263 Drapion</option>
+
+<option value="/spindex-dp/447.shtml">R-264 Riolu</option>
+
+<option value="/spindex-dp/448.shtml">R-265 Lucario</option>
+
+<option value="/spindex-dp/228.shtml">R-266 Houndour</option>
+
+<option value="/spindex-dp/229.shtml">R-267 Houndoom</option>
+
+<option value="/spindex-dp/199.shtml">R-268 Slowking</option>
+
+<option value="/spindex-dp/347.shtml">R-269 Anorith</option>
+
+<option value="/spindex-dp/348.shtml">R-270 Armaldo</option>
+
+
+
+<option value="/spindex-dp/140.shtml">R-271 Kabuto</option>
+
+<option value="/spindex-dp/141.shtml">R-272 Kabutops</option>
+
+<option value="/spindex-dp/211.shtml">R-273 Qwilfish</option>
+
+<option value="/spindex-dp/223.shtml">R-274 Remoraid</option>
+
+<option value="/spindex-dp/224.shtml">R-275 Octillery</option>
+
+<option value="/spindex-dp/072.shtml">R-276 Tentacool</option>
+
+<option value="/spindex-dp/073.shtml">R-277 Tentacruel</option>
+
+<option value="/spindex-dp/380.shtml">R-278 Latias</option>
+
+<option value="/spindex-dp/381.shtml">R-279 Latios</option>
+
+
+
+<option value="/spindex-dp/220.shtml">R-280 Swinub</option>
+
+<option value="/spindex-dp/221.shtml">R-281 Piloswine</option>
+
+<option value="/spindex-dp/473.shtml">R-282 Mamoswine</option>
+
+<option value="/spindex-dp/449.shtml">R-283 Hippopotas</option>
+
+<option value="/spindex-dp/450.shtml">R-284 Hippowdon</option>
+
+<option value="/spindex-dp/359.shtml">R-285 Absol</option>
+
+<option value="/spindex-dp/250.shtml">R-286 Ho-oh</option>
+
+<option value="/spindex-dp/464.shtml">R-287 Rhyperior</option>
+
+<option value="/spindex-dp/478.shtml">R-288 Froslass</option>
+
+
+
+<option value="/spindex-dp/465.shtml">R-289 Tangrowth</option>
+
+<option value="/spindex-dp/476.shtml">R-290 Probopass</option>
+
+<option value="/spindex-dp/132.shtml">R-291 Ditto</option>
+
+<option value="/spindex-dp/486.shtml">R-292 Regigigas</option>
+
+<option value="/spindex-dp/150.shtml">R-293 Mewtwo</option>
+
+<option value="/spindex-dp/009.shtml">R-294 Blastoise</option>
+
+<option value="/spindex-dp/214.shtml">R-295 Heracross</option>
+
+<option value="/spindex-dp/242.shtml">R-296 Blissey</option>
+
+<option value="/spindex-dp/489.shtml">R-297 Phione</option>
+
+
+
+<option value="/spindex-dp/144.shtml">R-298 Articuno</option>
+
+<option value="/spindex-dp/145.shtml">R-299 Zapdos</option>
+
+<option value="/spindex-dp/146.shtml">R-300 Moltres</option>
+
+<option value="/spindex-dp/249.shtml">R-301 Lugia</option>
+
+<option value="/spindex-dp/485.shtml">S-001 Heatran</option>
+
+<option value="/spindex-dp/492.shtml">S-002 Shaymin</option>
+
+<option value="/spindex-dp/487.shtml">S-003 Giratina</option>
+
+<option value="/spindex-dp/483.shtml">S-004 Dialga</option>
+
+<option value="/spindex-dp/484.shtml">S-005 Palkia</option>
+
+
+
+<option value="/spindex-dp/493.shtml">S-006 Arceus</option>
+
+
+
+</SELECT></FORM></td>
+
+
+
+</tr></table>
+
+
+
+
+
+
+<div align="center"><table  width="98%" border="1" cellspacing="0" cellpadding="4">
+  <tr>
+    <td width="80%"><table  width="100%" border="0" cellspacing="0" cellpadding="0">
+  		<tr>
+    		<td width="32" align="center"><img src="/dungeonsky/headshot/001.png"></td>
+		<td><font size="4"><b>&nbsp;#001 Bulbasaur</b></font></td></tr></table></td>
+    <td width="5%" align="center"><font size="1"><a href="#general">General</a></font></td>
+    <td width="5%" align="center"><font size="1"><a href="#location">Location</a></font></td>
+    <td width="5%" align="center"><font size="1"><a href="#attacks">Attacks</a></font></td>
+    <td width="5%" align="center"><font size="1"><a href="#tms">TMs</a></font></td>
+    <td width="32" align="center"><a href="/pokedex-dp/001.shtml"><img src="/pokedex-dp/icon/001.gif" border="0"></a></td>
+  </tr>
+</table><p>
+<a name="general"></a><table  width="98%" border="1" bordercolor="#868686" cellspacing="0" cellpadding="4">
+	<tr>
+		<td width="30%" colspan="4">
+		<b>Pok&eacute;mon Game Picture</b>
+		</td>
+		<td>
+		<b>National No.</b>
+		</td>
+		<td>
+		<b>Regional No.</b>
+		</td>
+		<td >
+		<b>English name</b>
+		</td>
+		<td >
+		<b>Japanese Name</b>
+		</td>
+	</tr>
+	<tr height="55">
+		<td  align="center" colspan="2">
+		<img src="/dungeonsky/pokemon/001.png"><br /><font size="1"><b>Dungeon</b></font></td>		</td>
+		<td  align="center" colspan="2">
+		<table border="0" height="60"><tr><td align="center"><img src="/ranger3/pokemon/001.png"></td></tr><tr height="1"><td align="center"><font size="1"><b>Ranger 3</b></font></td></tr></table>
+		</td>
+		<td >
+		#001
+		</td>
+		<td >
+		<b>Almia:</b> R---<br /><b>Oblivia (Present):</b> R-014<br /><b>Oblivia (Past):</b> N-004<br /><b>Pok�Park:</b> P-030<br />
+		</td>
+		<td >
+		Bulbasaur
+		</td>
+		<td >
+		&#12501;&#12471;&#12462;&#12480;&#12493;<br />Fushigidane
+		</td>
+	</tr>
+	<tr>
+		<td colspan=8>
+				<b>Ability: <a href="/abilitydex/overgrow.shtml"><b>Overgrow</b></a> </b>
+		</td>
+	</tr>
+	<tr>
+		<td colspan=8>
+				<a href="/abilitydex/overgrow.shtml"><b>Overgrow</b></a>: When HP is below 1/3rd, Grass&#x2019;s power increases to 1.5 times. 		
+		</td>
+	</tr>
+	<tr>
+		<td colspan=8>
+		<b>Gender Ratio</b>
+		</td>
+	</tr>	<tr>
+		<td colspan=5>
+		Male: 87.5 %
+		</td>
+		<td colspan=4>
+		Female: 12.5 %
+		</td>
+	</tr>
+	<tr>
+		<td colspan="4">
+		<b>Classification</b>
+		</td>
+		<td >
+		<b>Type 1</b>
+		</td>
+		<td >
+		<b>Type 2</b>
+		</td>
+		<td >
+		<b>Height</b>
+		</td>
+		<td >
+		<b>Weight</b>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="4">
+		Seed Pok&eacute;mon
+		</td>
+		<td >
+		<div align="center"><a href="/pokedex-dp/grass.shtml"><img src="/pokedex-dp/type/grass.gif" border=0></a></div>
+		</td>
+		<td >
+		<div align="center"><a href="/pokedex-dp/poison.shtml"><img src="/pokedex-dp/type/poison.gif" border=0></a></div>
+		</td>
+		<td >
+		2'04"
+		</td>
+		<td >
+		15.2 lbs
+		</td>
+	</tr>
+	<tr>
+		<td colspan=8>
+		<div align="center"><b>Evolution Chain</b></div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan=8>
+		<div align="center"><a href="/spindex-dp/001.shtml"><img src="/dungeonsky/pokemon/001.png" border="0"></a>--Lv. 16--><a href="/spindex-dp/002.shtml"><img src="/dungeonsky/pokemon/002.png" border="0"></a>--Lv. 32--><a href="/spindex-dp/003.shtml"><img src="/dungeonsky/pokemon/003.png" border="0"></a></div>
+		</td>
+	</tr>
+</table><p>
+<table  width="98%" border="1" bordercolor="#868686" cellspacing="0" cellpadding="4">
+	<tr>
+		<td colspan="2">
+		<b>Mystery Dungeon 2 Info</b>
+		</td>
+	</tr>
+	<tr>
+		<td>
+		<b>Body Size</b>
+		</td>
+		<td>
+		<b>IQ Group</b>
+		</td>
+	</tr>
+	<tr>
+		<td align="center"><img src="/spindex/icon/size.png">		</td>
+		<td align="center">
+	 Group F
+		</td>
+	</tr>
+</table><p>
+<table  width="98%" border="1" bordercolor="#868686" cellspacing="0" cellpadding="4">
+	<tr>
+		<td colspan="6">
+		<font size="2"><b>Ranger Guardian Signs Info</b></font>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="6" align="center">
+		<font size="2"><b>Oblivia Present</b>
+		</td>
+	</tr>
+	<tr>
+		<td align="center" colspan="2">
+		<b>Type Group</b>
+		</td>
+		<td align="center" colspan="2">
+		<b>Field Ability</b>
+		</td>
+		<td align="center" colspan="2">
+		<b>Pkmn Assist</b>
+		</td>
+	</tr>
+	<tr>
+		<td align="center" colspan="2">
+		Grass
+		</td>
+		<td align="center" colspan="2">
+		<img src="/ranger3/icon/field/slash.png" align="left"> Slash * 1		</td>
+		<td align="center" colspan="2">
+		<img src="/ranger3/icon/type/grass.png" align="left"> Grass
+		</td>
+	</tr>
+	<tr>
+		<td colspan="6" align="center">
+		<font size="2"><b>Oblivia Past</b>
+		</td>
+	</tr>
+	<tr>
+
+		<td align="center" colspan="3">
+		<b>Field Ability</b>
+		</td>
+		<td align="center" colspan="3">
+		<b>Pkmn Assist</b>
+		</td>
+	</tr>
+	<tr>
+
+		<td align="center" colspan="3">
+		<img src="/ranger3/icon/field/slash.png" align="left"> Slash
+		</td>
+		<td align="center" colspan="3">
+		<img src="/ranger3/icon/type/grass.png" align="left"> Grass
+		</td>
+	</tr>
+</table><p>
+<table  width="98%" border="1" bordercolor="#868686" cellspacing="0" cellpadding="4">
+	<tr>
+		<td colspan="2" align="center">
+		<font size="2"><b>Pok�Park Wii - Pikachu's Adventure Info</b></font>
+		</td>
+	</tr>
+	<tr>
+		<td width="50%" align="center"><b>Attraction</b></td>
+		<td width="50%" align="center"><b>Score to Beat</b></td>
+	</tr>
+	<tr>
+		<td width="50%" align="left"><font size="1">Bulbasaur's Daring Dash</font></td>
+		<td width="50%" align="center"><font size="1">00:10:80</font></td>
+	</tr>
+	
+
+</table><p>
+<a name="location"></a><table  width="98%" border="1" bordercolor="#868686" cellspacing="0" cellpadding="4">
+	<tr>
+		<td colspan="3" align="center">
+		<b>Location</b>
+		</td>
+	</tr>
+	<tr>
+		<td align="center" width="20%">
+		<b>Game</b>
+		</td>
+		<td align="center" width="15%">
+		<b>Get Rate</b>
+		</td>
+		<td align="center" width="65%">
+		<b>Obtainable Location</b>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" width="20%">
+		<font color="FD3B3B"><b>Dungeon<br />Time & Darkness</b></font>
+		</td>
+		<td align="left" width="15%">
+		Easy
+		</td>
+		<td align="left" width="65%">
+		Mystifying Forest - Random B1-B13 <br /> Mystery Jungle - Random B1F-B29F
+		</td>
+	</tr>
+	<tr>
+		<td align="left" width="20%">
+		<font color="#44FF19"><b>Dungeon<br />Sky</b></font>
+		</td>
+		<td align="left" width="15%">
+		Easy
+		</td>
+		<td align="left" width="65%">
+		Mystic Forest - Random B1-B13 <br /> Mystery Jungle - Random B1F-B29F
+		</td>
+	</tr><tr>
+		<td align="left" width="20%">
+		<font color="69DD01"><b>Ranger Shadows of Almia</b></font>
+		</td>
+		<td align="left" width="15%">
+		-
+		</td>
+		<td align="left" width="65%">
+		Bulbasaur is not in Pok�mon Ranger 		</td>
+	</tr>
+	<tr>
+		<td align="left" width="20%">
+		<font color="FF8309"><b>Dungeon<br />Blazing Adventure Squad</b></font>
+		</td>
+		<td align="left" width="15%">
+		-
+		</td>
+		<td align="left" width="65%">
+		Mystery Plains 1-5F<br />Final Mountain 9-13F 		</td>
+	</tr>
+	<tr>
+		<td align="left" width="20%">
+		<font color="21BEFF"><b>Dungeon<br />Stormy Adventure Squad</b></font>
+		</td>
+		<td align="left" width="15%">
+		-
+		</td>
+		<td align="left" width="65%">
+		Mystery Marsh 1-5F<br />Final Island 9-13F 		</td>
+	</tr>
+	<tr>
+		<td align="left" width="20%">
+		<font color="F7FE2A"><b>Dungeon<br />Light Adventure Squad</b></font>
+		</td>
+		<td align="left" width="15%">
+		-
+		</td>
+		<td align="left" width="65%">
+		Mystery Meadow 1-5F<br /> Final Cave 9-13F<br /> Final Cave 9-13F 		</td>
+	</tr>		<tr>
+		<td align="left" width="20%" rowspan="2">
+		<font color="FBCF03"><b>Ranger Guardian Signs</b></font>
+		</td>
+		<td align="left" width="15%">
+		Present
+		</td>
+		<td align="left" width="65%">
+		<a href="/pokearth/oblivia/hill.shtml">Dolce Island - Hill - Cliffside</a><br /><a href="/pokearth/oblivia/hindercape.shtml">Renbow Island - Hinder Cape - Area 2</a> 		</td>
+	</tr>
+	<tr>
+		<td align="left" width="15%">
+		Past
+		</td>
+		<td align="left" width="65%">
+		<a href="/ranger3/foresttemple.shtml">Forest Temple - A Pok�mon Forest in the Way</a> 		</td>
+</tr>		<tr>
+		<td align="left" width="20%">
+		<font color="FFFF00"><b>Pok�Park Wii - Pikachu's Adventure</b></font>
+		</td>
+		<td align="left" width="15%">
+		<font size="1">Automatically after Competing in Bulbasaur's Foot Race</font>
+		</td>
+		<td align="left" width="65%">
+		Meadow Zone 		</td>
+	</tr>
+</table><p><a name="attacks"></a><table  width="98%" border="1" bordercolor="#868686" cellspacing="0" cellpadding="4"><thead><tr ><th colspan="10"><font color="#ffffff">Dungeon Level Up</th></tr><tr><th><font color="#ffffff">Level</th><th><font color="#ffffff">Attack Name</th><th><font color="#ffffff">Type</th><th><font color="#ffffff">Cat.</th><th><font color="#ffffff">Att.</th><th><font color="#ffffff">Acc.</th><th><font color="#ffffff">PP</th><th><font color="#ffffff">Critical Rate</th></tr></thead><tbody><tr><td rowspan="2">&#8212;</td><td rowspan="2">Tackle</td><td align="center"><div align="center"><img src="/pokedex-dp/type/normal.gif"></div></td><td align="center"><img src="/pokedex-dp/type/physical.png"></td><td align="center">6</td><td align="center">95</td><td align="center">30</td><td align="center">8</td></tr><tr><td align="left"  colspan="7">A physical attack in which the user charges and slams into the foe with its whole body.</td></tr><tr><td rowspan="2">3</td><td rowspan="2">Growl</td><td align="center"><div align="center"><img src="/pokedex-dp/type/normal.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">-</td><td align="center">100</td><td align="center">20</td><td align="center">-</td></tr><tr><td align="left"  colspan="7">The user growls in an endearing way, making the foe less wary. The target's Attack stat is lowered.</td></tr><tr><td rowspan="2">7</td><td rowspan="2">Leech Seed</td><td align="center"><div align="center"><img src="/pokedex-dp/type/grass.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">-</td><td align="center">100</td><td align="center">17</td><td align="center">-</td></tr><tr><td align="left"  colspan="7">A seed is planted on the foe. It steals some HP from the foe to heal the user on every turn.</td></tr><tr><td rowspan="2">9</td><td rowspan="2">Vine Whip</td><td align="center"><div align="center"><img src="/pokedex-dp/type/grass.gif"></div></td><td align="center"><img src="/pokedex-dp/type/physical.png"></td><td align="center">6</td><td align="center">88</td><td align="center">18</td><td align="center">8</td></tr><tr><td align="left"  colspan="7">The foe is struck with slender, whiplike vines to inflict damage. </td></tr><tr><td rowspan="2">13</td><td rowspan="2">Poisonpowder</td><td align="center"><div align="center"><img src="/pokedex-dp/type/poison.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">-</td><td align="center">100</td><td align="center">22</td><td align="center">-</td></tr><tr><td align="left"  colspan="7">A cloud of poisonous dust is scattered on the foe. It may poison the target.</td></tr><tr><td rowspan="2">13</td><td rowspan="2">Sleep Powder</td><td align="center"><div align="center"><img src="/pokedex-dp/type/grass.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">-</td><td align="center">80</td><td align="center">13</td><td align="center">-</td></tr><tr><td align="left"  colspan="7">The user scatters a big cloud of sleep- inducing dust around the foe. </td></tr><tr><td rowspan="2">15</td><td rowspan="2">Take Down</td><td align="center"><div align="center"><img src="/pokedex-dp/type/normal.gif"></div></td><td align="center"><img src="/pokedex-dp/type/physical.png"></td><td align="center">8</td><td align="center">88</td><td align="center">19</td><td align="center">8</td></tr><tr><td align="left"  colspan="7">A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.</td></tr><tr><td rowspan="2">19</td><td rowspan="2">Razor Leaf</td><td align="center"><div align="center"><img src="/pokedex-dp/type/grass.gif"></div></td><td align="center"><img src="/pokedex-dp/type/physical.png"></td><td align="center">2</td><td align="center">80</td><td align="center">12</td><td align="center">8</td></tr><tr><td align="left"  colspan="7">Sharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.</td></tr><tr><td rowspan="2">21</td><td rowspan="2">Sweet Scent</td><td align="center"><div align="center"><img src="/pokedex-dp/type/normal.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">-</td><td align="center">100</td><td align="center">22</td><td align="center">-</td></tr><tr><td align="left"  colspan="7">A sweet scent that lowers the foe's evasiveness. It also lures wild Pok�mon if used in grass, etc.</td></tr><tr><td rowspan="2">25</td><td rowspan="2">Growth</td><td align="center"><div align="center"><img src="/pokedex-dp/type/normal.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">-</td><td align="center">100</td><td align="center">20</td><td align="center">-</td></tr><tr><td align="left"  colspan="7">The user's body is forced to grow all at once. It raises the Sp. Atk stat. </td></tr><tr><td rowspan="2">27</td><td rowspan="2">Double-edge</td><td align="center"><div align="center"><img src="/pokedex-dp/type/normal.gif"></div></td><td align="center"><img src="/pokedex-dp/type/physical.png"></td><td align="center">20</td><td align="center">100</td><td align="center">12</td><td align="center">8</td></tr><tr><td align="left"  colspan="7">A reckless, life- risking tackle. It also damages the user by a fairly large amount, however.</td></tr><tr><td rowspan="2">31</td><td rowspan="2">Worry Seed</td><td align="center"><div align="center"><img src="/pokedex-dp/type/grass.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">-</td><td align="center">100</td><td align="center">14</td><td align="center">-</td></tr><tr><td align="left"  colspan="7">A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.</td></tr><tr><td rowspan="2">33</td><td rowspan="2">Synthesis</td><td align="center"><div align="center"><img src="/pokedex-dp/type/grass.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">-</td><td align="center">100</td><td align="center">12</td><td align="center">-</td></tr><tr><td align="left"  colspan="7">The user restores its own HP. The amount of HP regained varies with the weather.</td></tr><tr><td rowspan="2">37</td><td rowspan="2">Seed Bomb</td><td align="center"><div align="center"><img src="/pokedex-dp/type/grass.gif"></div></td><td align="center"><img src="/pokedex-dp/type/physical.png"></td><td align="center">16</td><td align="center">88</td><td align="center">11</td><td align="center">8</td></tr><tr><td align="left"  colspan="7">The user slams a barrage of hard- shelled seeds down on the foe from above.</td></tr></tbody></table><p><table  width="98%" border="1" bordercolor="#868686" cellspacing="0" cellpadding="4"><thead><tr ><th colspan="10"><a name="tms"><font color="#ffffff"><b>TM & HM Attacks</b></font></a></th></tr><tr><th><font color="#ffffff">TM/HM #</th><th><font color="#ffffff">Attack Name</th><th><font color="#ffffff">Type</th><th><font color="#ffffff">Cat.</th><th><font color="#ffffff">Att.</th><th><font color="#ffffff">Acc.</th><th><font color="#ffffff">PP</th><th><font color="#ffffff">Critical Rate</th></tr></thead><tbody><tr><td rowspan="2">TM06</td><td rowspan="2">Toxic</td><td align="center"><div align="center"><img src="/pokedex-dp/type/poison.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">-</td><td align="center">88</td><td align="center">12</td><td align="center">-</td></tr><tr><td align="left" colspan="7">A move that leaves the target badly poisoned. Its poison damage worsens every turn.</td></tr><tr><td rowspan="2">TM09</td><td rowspan="2">Bullet Seed</td><td align="center"><div align="center"><img src="/pokedex-dp/type/grass.gif"></div></td><td align="center"><img src="/pokedex-dp/type/physical.png"></td><td align="center">10</td><td align="center">48</td><td align="center">10</td><td align="center">2</td></tr><tr><td align="left" colspan="7">The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.</td></tr><tr><td rowspan="2">TM10</td><td rowspan="2">Hidden Power</td><td align="center"><div align="center"><img src="/pokedex-dp/type/normal.gif"></div></td><td align="center"><img src="/pokedex-dp/type/special.png"></td><td align="center">217</td><td align="center">88</td><td align="center">12</td><td align="center">8</td></tr><tr><td align="left" colspan="7">A unique attack that varies in type and intensity depending on the Pok�mon using it.</td></tr><tr><td rowspan="2">TM11</td><td rowspan="2">Sunny Day</td><td align="center"><div align="center"><img src="/pokedex-dp/type/fire.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">-</td><td align="center">100</td><td align="center">12</td><td align="center">-</td></tr><tr><td align="left" colspan="7">The user intensifies the sun for five turns, powering up Fire-type moves. </td></tr><tr><td rowspan="2">TM17</td><td rowspan="2">Protect</td><td align="center"><div align="center"><img src="/pokedex-dp/type/normal.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">-</td><td align="center">75</td><td align="center">10</td><td align="center">-</td></tr><tr><td align="left" colspan="7">It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.</td></tr><tr><td rowspan="2">TM19</td><td rowspan="2">Giga Drain</td><td align="center"><div align="center"><img src="/pokedex-dp/type/grass.gif"></div></td><td align="center"><img src="/pokedex-dp/type/special.png"></td><td align="center">12</td><td align="center">88</td><td align="center">10</td><td align="center">8</td></tr><tr><td align="left" colspan="7">A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.</td></tr><tr><td rowspan="2">TM21</td><td rowspan="2">Frustration</td><td align="center"><div align="center"><img src="/pokedex-dp/type/normal.gif"></div></td><td align="center"><img src="/pokedex-dp/type/physical.png"></td><td align="center">-</td><td align="center">100</td><td align="center">16</td><td align="center">-</td></tr><tr><td align="left" colspan="7">A full-power attack that grows more powerful the less the user likes its Trainer.</td></tr><tr><td rowspan="2">TM22</td><td rowspan="2">Solarbeam</td><td align="center"><div align="center"><img src="/pokedex-dp/type/grass.gif"></div></td><td align="center"><img src="/pokedex-dp/type/special.png"></td><td align="center">24</td><td align="center">100</td><td align="center">9</td><td align="center">8</td></tr><tr><td align="left" colspan="7">A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.</td></tr><tr><td rowspan="2">TM27</td><td rowspan="2">Return</td><td align="center"><div align="center"><img src="/pokedex-dp/type/normal.gif"></div></td><td align="center"><img src="/pokedex-dp/type/physical.png"></td><td align="center">-</td><td align="center">100</td><td align="center">12</td><td align="center">8</td></tr><tr><td align="left" colspan="7">A full-power attack that grows more powerful the more the user likes its Trainer.</td></tr><tr><td rowspan="2">TM32</td><td rowspan="2">Double Team</td><td align="center"><div align="center"><img src="/pokedex-dp/type/normal.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">-</td><td align="center">100</td><td align="center">17</td><td align="center">-</td></tr><tr><td align="left" colspan="7">By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. </td></tr><tr><td rowspan="2">TM36</td><td rowspan="2">Sludge Bomb</td><td align="center"><div align="center"><img src="/pokedex-dp/type/poison.gif"></div></td><td align="center"><img src="/pokedex-dp/type/special.png"></td><td align="center">18</td><td align="center">80</td><td align="center">10</td><td align="center">8</td></tr><tr><td align="left" colspan="7">The user attacks by hurling filthy sludge at the foe. It may also poison the target.</td></tr><tr><td rowspan="2">TM42</td><td rowspan="2">Facade</td><td align="center"><div align="center"><img src="/pokedex-dp/type/normal.gif"></div></td><td align="center"><img src="/pokedex-dp/type/physical.png"></td><td align="center">14</td><td align="center">84</td><td align="center">12</td><td align="center">8</td></tr><tr><td align="left" colspan="7">An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.</td></tr><tr><td rowspan="2">TM43</td><td rowspan="2">Secret Power</td><td align="center"><div align="center"><img src="/pokedex-dp/type/normal.gif"></div></td><td align="center"><img src="/pokedex-dp/type/physical.png"></td><td align="center">14</td><td align="center">88</td><td align="center">10</td><td align="center">8</td></tr><tr><td align="left" colspan="7">The user attacks with a secret power. Its added effects vary depending on the user's environment.</td></tr><tr><td rowspan="2">TM44</td><td rowspan="2">Rest</td><td align="center"><div align="center"><img src="/pokedex-dp/type/psychic.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">-</td><td align="center">100</td><td align="center">8</td><td align="center">-</td></tr><tr><td align="left" colspan="7">The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.</td></tr><tr><td rowspan="2">TM45</td><td rowspan="2">Attract</td><td align="center"><div align="center"><img src="/pokedex-dp/type/normal.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">-</td><td align="center">75</td><td align="center">10</td><td align="center">-</td></tr><tr><td align="left" colspan="7">If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.</td></tr><tr><td rowspan="2">TM53</td><td rowspan="2">Energy Ball</td><td align="center"><div align="center"><img src="/pokedex-dp/type/grass.gif"></div></td><td align="center"><img src="/pokedex-dp/type/special.png"></td><td align="center">16</td><td align="center">88</td><td align="center">11</td><td align="center">8</td></tr><tr><td align="left" colspan="7">The user draws power from nature and fires it at the foe. It may also lower the target's Sp. Def.</td></tr><tr><td rowspan="2">TM58</td><td rowspan="2">Endure</td><td align="center"><div align="center"><img src="/pokedex-dp/type/normal.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">-</td><td align="center">75</td><td align="center">17</td><td align="center">-</td></tr><tr><td align="left" colspan="7">The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.</td></tr><tr><td rowspan="2">TM70</td><td rowspan="2">Flash</td><td align="center"><div align="center"><img src="/pokedex-dp/type/normal.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">-</td><td align="center">100</td><td align="center">24</td><td align="center">-</td></tr><tr><td align="left" colspan="7">The user flashes a light that cuts the foe's accuracy. It can also be used to illuminate caves.</td></tr><tr><td rowspan="2">TM75</td><td rowspan="2">Swords Dance</td><td align="center"><div align="center"><img src="/pokedex-dp/type/normal.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">-</td><td align="center">100</td><td align="center">7</td><td align="center">-</td></tr><tr><td align="left" colspan="7">A frenetic dance to uplift the fighting spirit. It sharply raises the user's Attack stat.</td></tr><tr><td rowspan="2">TM78</td><td rowspan="2">Captivate</td><td align="center"><div align="center"><img src="/pokedex-dp/type/normal.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">-</td><td align="center">100</td><td align="center">20</td><td align="center">-</td></tr><tr><td align="left" colspan="7">If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.</td></tr><tr><td rowspan="2">TM82</td><td rowspan="2">Sleep Talk</td><td align="center"><div align="center"><img src="/pokedex-dp/type/normal.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">-</td><td align="center">-</td><td align="center">17</td><td align="center">-</td></tr><tr><td align="left" colspan="7">While it is asleep, the user randomly uses one of the moves it knows. </td></tr><tr><td rowspan="2">TM83</td><td rowspan="2">Natural Gift</td><td align="center"><div align="center"><img src="/pokedex-dp/type/normal.gif"></div></td><td align="center"><img src="/pokedex-dp/type/physical.png"></td><td align="center">1</td><td align="center">88</td><td align="center">17</td><td align="center">8</td></tr><tr><td align="left" colspan="7">The user draws power to attack by using its held Berry. The Berry determines its type and power.</td></tr><tr><td rowspan="2">TM86</td><td rowspan="2">Grass Knot</td><td align="center"><div align="center"><img src="/pokedex-dp/type/grass.gif"></div></td><td align="center"><img src="/pokedex-dp/type/special.png"></td><td align="center">1</td><td align="center">88</td><td align="center">20</td><td align="center">8</td></tr><tr><td align="left" colspan="7">The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.</td></tr><tr><td rowspan="2">TM87</td><td rowspan="2">Swagger</td><td align="center"><div align="center"><img src="/pokedex-dp/type/normal.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">-</td><td align="center">100</td><td align="center">18</td><td align="center">-</td></tr><tr><td align="left" colspan="7">The user enrages the foe into confusion. However, it also sharply raises the foe's Attack stat.</td></tr><tr><td rowspan="2">TM90</td><td rowspan="2">Substitute</td><td align="center"><div align="center"><img src="/pokedex-dp/type/normal.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">-</td><td align="center">100</td><td align="center">7</td><td align="center">-</td></tr><tr><td align="left" colspan="7">The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.</td></tr><tr><td rowspan="2">HM01</td><td rowspan="2">Cut</td><td align="center"><div align="center"><img src="/pokedex-dp/type/normal.gif"></div></td><td align="center"><img src="/pokedex-dp/type/physical.png"></td><td align="center">16</td><td align="center">74</td><td align="center">10</td><td align="center">8</td></tr><tr><td align="left" colspan="7">The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.</td></tr></tbody></table><p><table  width="98%" border="1" bordercolor="#868686" cellspacing="0" cellpadding="4"><thead><tr ><th colspan="9"><font color="#ffffff">Possible Egg Moves</th></tr><tr><th><font color="#ffffff">Attack Name</th><th><font color="#ffffff">Type</th><th><font color="#ffffff">Cat.</th><th><font color="#ffffff">Att.</th><th><font color="#ffffff">Acc.</th><th><font color="#ffffff">PP</th><th><font color="#ffffff">Critical Rate</th></tr></thead><tbody><tr><td rowspan="2">Light Screen</td><td align="center"><div align="center"><img src="/pokedex-dp/type/psychic.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">-</td><td align="center">100</td><td align="center">14</td><td align="center">-</td></tr><tr><td align="left" colspan="6">A wondrous wall of light is put up to suppress damage from special attacks for five turns.</td></tr><tr><td rowspan="2">Skull Bash</td><td align="center"><div align="center"><img src="/pokedex-dp/type/normal.gif"></div></td><td align="center"><img src="/pokedex-dp/type/physical.png"></td><td align="center">10</td><td align="center">100</td><td align="center">15</td><td align="center">8</td></tr><tr><td align="left" colspan="6">The user tucks in its head to raise its Defense in the first turn, then rams the foe on the next turn.</td></tr><tr><td rowspan="2">Safeguard</td><td align="center"><div align="center"><img src="/pokedex-dp/type/normal.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">-</td><td align="center">100</td><td align="center">13</td><td align="center">-</td></tr><tr><td align="left" colspan="6">The user creates a protective field that prevents status problems for five turns.</td></tr><tr><td rowspan="2">Charm</td><td align="center"><div align="center"><img src="/pokedex-dp/type/normal.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">-</td><td align="center">75</td><td align="center">22</td><td align="center">-</td></tr><tr><td align="left" colspan="6">The user charmingly stares at the foe, making it less wary. The target's Attack is sharply lowered.</td></tr><tr><td rowspan="2">Petal Dance</td><td align="center"><div align="center"><img src="/pokedex-dp/type/grass.gif"></div></td><td align="center"><img src="/pokedex-dp/type/special.png"></td><td align="center">7</td><td align="center">44</td><td align="center">9</td><td align="center">8</td></tr><tr><td align="left" colspan="6">The user attacks by scattering petals for two to three turns. The user then becomes confused.</td></tr><tr><td rowspan="2">Magical Leaf</td><td align="center"><div align="center"><img src="/pokedex-dp/type/grass.gif"></div></td><td align="center"><img src="/pokedex-dp/type/special.png"></td><td align="center">12</td><td align="center">100</td><td align="center">8</td><td align="center">8</td></tr><tr><td align="left" colspan="6">The user scatters curious leaves that chase the foe. This attack will not miss.</td></tr><tr><td rowspan="2">Grasswhistle</td><td align="center"><div align="center"><img src="/pokedex-dp/type/grass.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">-</td><td align="center">88</td><td align="center">12</td><td align="center">-</td></tr><tr><td align="left" colspan="6">The user plays a pleasant melody that lulls the foe into a deep sleep. </td></tr><tr><td rowspan="2">Curse</td><td align="center"><div align="center"><img src="/pokedex-dp/type/curse.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">10</td><td align="center">100</td><td align="center">17</td><td align="center">-</td></tr><tr><td align="left" colspan="6">A move that works differently for the Ghost type than for all the other types. </td></tr><tr><td rowspan="2">Ingrain</td><td align="center"><div align="center"><img src="/pokedex-dp/type/grass.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">-</td><td align="center">100</td><td align="center">22</td><td align="center">-</td></tr><tr><td align="left" colspan="6">The user lays roots that restore HP on every turn. Because it is rooted, it can't switch out.</td></tr><tr><td rowspan="2">Nature Power</td><td align="center"><div align="center"><img src="/pokedex-dp/type/normal.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">-</td><td align="center">-</td><td align="center">24</td><td align="center">-</td></tr><tr><td align="left" colspan="6">An attack that makes use of nature's power. Its effects vary depending on the user's environment.</td></tr><tr><td rowspan="2">Amnesia</td><td align="center"><div align="center"><img src="/pokedex-dp/type/psychic.gif"></div></td><td align="center"><img src="/pokedex-dp/type/other.png"></td><td align="center">-</td><td align="center">100</td><td align="center">22</td><td align="center">-</td></tr><tr><td align="left" colspan="6">The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.</td></tr><tr><td rowspan="2">Leaf Storm</td><td align="center"><div align="center"><img src="/pokedex-dp/type/grass.gif"></div></td><td align="center"><img src="/pokedex-dp/type/special.png"></td><td align="center">27</td><td align="center">80</td><td align="center">5</td><td align="center">8</td></tr><tr><td align="left" colspan="6">A storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat.</td></tr></table><p>
+<table width="100%" border="0" cellpadding="4">
+	<tr>
+		<td width="50%" align="left">
+		
+		</td>
+		<td width="50%" align="right">
+		<table border="0">
+	<tr>
+		<td align="center">
+		<a href="/spindex-dp/002.shtml">#002<br />Ivysaur
+		</td>
+		<td>
+		<a href="/spindex-dp/002.shtml"><img src="/dungeonsky/headshot/002.png" border="0"></a>
+		</td>
+		<td width="right">
+		---> 
+		</td>
+	</tr>
+</table>
+
+		</td>
+	</tr>
+</table>
+</div>
+</td>
+
+
+
+        <td width="1%" height="86" valign="top" bgcolor="#507C36"><div id="menu">
+
+<a href="/potw-sv/"><img src="/Toolbar/headers/PotW.gif" border="0" width="140" height="27"></a></b><br />
+
+<a href="/potw-sv/1005.shtml"><img src="/potw-sv/1005.jpg" border=0 alt="Pok�mon of the Week" width="140"></a>          
+
+          <img src="/Toolbar/headers/NextInJapan.gif" border="0" width="140" height="27"></b><br />          
+
+<img border="0" src="/anime/NextOn/1276.jpg" width="140"><br />
+
+Episode 40<br />
+
+<b>Farewell, Sprigatito</b><br />
+
+<img border="0" src="/anime/NextOn/1276-i.jpg" width="140"><br />
+
+Airdate: 23/02/2024<br />
+
+         <img src="/Toolbar/headers/RecentlyUsa.gif" border="0" width="140" height="27"></font></b><br />
+
+            <a href="/anime/epiguide/pokemon/sp1.shtml"><img border="0" src="/thedistantbluesky.jpg" width="140"><br />
+
+Special <br />
+
+<b>Distant Blue Sky!</b><br />
+
+<img src="/anime/synopsis.gif" border=0>Synopsis</a><br />
+
+          <a href="/anime/pictures/pokemon/sp.shtml"><img src="/anime/pictures.gif" border=0>Pictures</a><br />
+
+       <img src="/Toolbar/headers/ComingInUsa.gif" border="0" width="140" height="27"></font></b><br />
+
+            <a href="/anime/epiguide/pokemon2023/001.shtml"><img border="0" src="/1237.jpg" width="140"><br />
+
+Episode 1<br />
+
+<b>The Pendant That Starts It All: Part One</b><br />
+
+		Airdate: 23/02/2024</a><br />
+
+
+
+          <a href="/anime/epiguide/pokemon2023/001.shtml"><img src="/anime/synopsis.gif" border=0>Synopsis</a><br />
+
+          <a href="/anime/pictures/pokemon2023/001.shtml"><img src="/anime/pictures.gif" border=0>Pictures</a><br />
+
+         <img src="/Toolbar/headers/SocialMedia.gif" border="0" width="140" height="27"></b><br />          
+
+<div align="center"><a href="http://www.facebook.com/SerebiiNetPage" target="blank"><img src="/Toolbar/headers/Facebook.png" border="0" width="30" alt="Facebook" /></a> <a href="http://www.twitter.com/SerebiiNet" target="blank"><img src="/Toolbar/headers/Twitter.png" border="0" width="30" alt="Twitter" /></a> <a href="http://www.youtube.com/serebiispp" target="blank"><img src="/Toolbar/headers/youtube.png" border="0" width="30" alt="YouTube" /></a> <a href="http://www.instagram.com/serebii" target="blank" rel="nofollow"><img src="/Toolbar/headers/instagram.png" border="0" width="30" alt="Instagram" /></a>
+
+		<a href="http://www.threads.net/@serebii" target="blank" rel="nofollow"><img src="/Toolbar/headers/threads.png" width="30" alt="Threads"/></a>
+
+</div> 
+
+ <img src="/Toolbar/headers/Association.gif" border="0" width="140" height="27"></font></b><br />
+
+          <div align="center"><a href="http://www.pocketmonsters.net/" target="blank" rel="nofollow"><img src="/Toolbar/pm.png" border="0" alt="#PM"></a><br /><a href="http://www.legendarypokemon.net/" target="blank" rel="nofollow"><img src="/Toolbar/lpoke.png" border="0" alt="Legendary Pok�mon"></a><br /></div>
+
+
+
+</td>
+
+      </tr>
+
+    </table>
+
+      
+
+    &nbsp;
+
+    
+
+      <center>
+
+      <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="93%" bordercolor="#000000">
+
+        <tr>
+
+          <td width="28%" bgcolor="#507C36" valign="top">
+
+          <font SIZE="1" face="Verdana" color="#000000">All Content is 
+
+
+          �Copyright of Serebii.net 1999-2019. | <a href="/privacy.shtml"><font color="#000000">Privacy Policy</font></a> | <a style="cursor:pointer" onclick="window.__cmp('showConsentModal')"><font color="#000000">Manage Cookie Settings</font></a><br />
+
+Pok�mon And All Respective Names are Trademark & &copy; of Nintendo 1996-2019</font></b></td>
+
+          <td width="12%" bgcolor="#507C36" valign="top">
+
+          
+
+<div id="menu"><b>Navigation<br />
+
+          </b><a href="javascript:history.back()">Back</a> - <a href="javascript:history.forward()">Forward</a> - <a href="#top">Top</a></div></td>
+
+        </tr>
+
+      </table>
+
+      </center>
+
+<br /><div align="center" style="height:102px"><div id="nn_lb2"></div></div>
+
+<div id="celtra-reveal-wrapper" style="position:fixed; height: auto; width: 100%">
+
+<div id="nn_1by1"></div>
+
+</div>
+
+
+
+
+</body>
+</html>
